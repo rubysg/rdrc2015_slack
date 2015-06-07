@@ -1,0 +1,192 @@
+[
+    {
+        "user": "U03T4LMQ2",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U03T4LMQ2|reydi> has joined the channel",
+        "ts": "1432826430.000064"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/jin_|@jin_>: Stickers!! <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGHL5dnUsAAy0oq.jpg>",
+                "author_name": "jin",
+                "author_link": "https:\/\/twitter.com\/jin_\/status\/603988024108548096",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/579812718640656385\/h4_ESfXl_normal.jpg",
+                "author_subname": "@jin_",
+                "pretext": "<https:\/\/twitter.com\/jin_\/status\/603988024108548096>",
+                "text": "Stickers!! <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGHL5dnUsAAy0oq.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGHL5dnUsAAy0oq.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 52747,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1432836941.000065"
+    },
+    {
+        "user": "U052NP9G3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U052NP9G3|cemeng> has joined the channel",
+        "ts": "1432855552.000066"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>: These will be in the Goodie bag! <https:\/\/twitter.com\/jin_\/status\/603988024108548096>",
+                "author_name": "RedDotRubyConf",
+                "author_link": "https:\/\/twitter.com\/reddotrubyconf\/status\/604073135856435202",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/3261940620\/0a27e2dfbd04ac82ccde7502b9b3d16d_normal.png",
+                "author_subname": "@reddotrubyconf",
+                "pretext": "<https:\/\/twitter.com\/reddotrubyconf\/status\/604073135856435202>",
+                "text": "These will be in the Goodie bag! <https:\/\/twitter.com\/jin_\/status\/603988024108548096>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1432857233.000067"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/anna_fil|@anna_fil>: Stuff just got real! 6 more days til #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGGgAOEU0AA3rN3.jpg>",
+                "author_name": "Anna Filippova",
+                "author_link": "https:\/\/twitter.com\/anna_fil\/status\/603939770125787136",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/478222464892157953\/Aovvqooq_normal.jpeg",
+                "author_subname": "@anna_fil",
+                "pretext": "<https:\/\/twitter.com\/anna_fil\/status\/603939770125787136>",
+                "text": "Stuff just got real! 6 more days til #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGGgAOEU0AA3rN3.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGGgAOEU0AA3rN3.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 55322,
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/604073276646666240|@reddotrubyconf>"
+            },
+            {
+                "text": "<https:\/\/pbs.twimg.com\/media\/CGGgARrUMAACLoO.jpg>",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGGgARrUMAACLoO.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 14257
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1432857267.000068"
+    },
+    {
+        "type": "message",
+        "user": "U03THSWAU",
+        "text": "Stickersss!",
+        "ts": "1432868635.000069"
+    },
+    {
+        "type": "message",
+        "user": "U03TG6YTU",
+        "text": ":heart:",
+        "ts": "1432869317.000070"
+    },
+    {
+        "type": "message",
+        "user": "U03TFF94K",
+        "text": ":heart_eyes:",
+        "ts": "1432869324.000071"
+    },
+    {
+        "type": "message",
+        "user": "U0463AE1C",
+        "text": "OMGGGG",
+        "ts": "1432870448.000072"
+    },
+    {
+        "type": "message",
+        "user": "U0463AE1C",
+        "text": "i want!",
+        "ts": "1432870450.000073"
+    },
+    {
+        "type": "message",
+        "user": "U0463AE1C",
+        "text": ":heartpulse:",
+        "ts": "1432870649.000074"
+    },
+    {
+        "type": "message",
+        "user": "U03SWKEV5",
+        "text": "A lot more things in the goodie bag. :simple_smile:",
+        "ts": "1432871837.000075"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: Lovely pics <https:\/\/twitter.com\/anna_fil|@anna_fil> I'm dying... I want these <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> stickers so bad! Can't wait! :heart::heartpulse::purple_heart: #rdrc2015",
+                "author_name": "Nathania Wong",
+                "author_link": "https:\/\/twitter.com\/NathaniaWong\/status\/604140949850050560",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594158757346586625\/JMeBbqR5_normal.jpg",
+                "author_subname": "@NathaniaWong",
+                "pretext": "<https:\/\/twitter.com\/NathaniaWong\/status\/604140949850050560>",
+                "text": "Lovely pics <https:\/\/twitter.com\/anna_fil|@anna_fil> I'm dying... I want these <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> stickers so bad! Can't wait! :heart::heartpulse::purple_heart: #rdrc2015",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1432873401.000076"
+    },
+    {
+        "type": "message",
+        "user": "U03TG6YTU",
+        "text": "thank you <@U03SWKEV5> and the team!!! can\u2019t wait :heart:",
+        "ts": "1432874672.000077"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: Hey <https:\/\/twitter.com\/jin_|@jin_> ! Wilson Tan wants me to help him collect some <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> stickers from you lol #rdrc2015 <https:\/\/twitter.com\/jin_\/status\/603988024108548096>",
+                "author_name": "Nathania Wong",
+                "author_link": "https:\/\/twitter.com\/NathaniaWong\/status\/604149120211636224",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594158757346586625\/JMeBbqR5_normal.jpg",
+                "author_subname": "@NathaniaWong",
+                "pretext": "<https:\/\/twitter.com\/NathaniaWong\/status\/604149120211636224>",
+                "text": "Hey <https:\/\/twitter.com\/jin_|@jin_> ! Wilson Tan wants me to help him collect some <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> stickers from you lol #rdrc2015 <https:\/\/twitter.com\/jin_\/status\/603988024108548096>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1432875349.000078"
+    },
+    {
+        "type": "message",
+        "user": "U03SWKEV5",
+        "text": ":thumbsup::thumbsup::thumbsup:",
+        "ts": "1432875481.000079"
+    },
+    {
+        "type": "message",
+        "user": "U0463AE1C",
+        "text": "<@U03SWKEV5>: \\o\/\\o\/\\o\/",
+        "ts": "1432881812.000080"
+    }
+]

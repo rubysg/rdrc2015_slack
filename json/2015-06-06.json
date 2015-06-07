@@ -1,0 +1,895 @@
+[
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: Opening address by <https:\/\/twitter.com\/jesseplusplus|@jesseplusplus> and <https:\/\/twitter.com\/github|@github> workshop has started! <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGzI44MUkAA5Icp.jpg>",
+                "author_name": "Nathania Wong",
+                "author_link": "https:\/\/twitter.com\/NathaniaWong\/status\/607080944663564288",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594158757346586625\/JMeBbqR5_normal.jpg",
+                "author_subname": "@NathaniaWong",
+                "pretext": "<https:\/\/twitter.com\/NathaniaWong\/status\/607080944663564288>",
+                "text": "Opening address by <https:\/\/twitter.com\/jesseplusplus|@jesseplusplus> and <https:\/\/twitter.com\/github|@github> workshop has started! <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGzI44MUkAA5Icp.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGzI44MUkAA5Icp.jpg",
+                "image_width": 600,
+                "image_height": 600,
+                "image_bytes": 42875,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433574351.000045"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>: GitHub Patchwork happening now! <https:\/\/pbs.twimg.com\/media\/CGzJbBJVAAQqcwp.jpg>",
+                "author_name": "RedDotRubyConf",
+                "author_link": "https:\/\/twitter.com\/reddotrubyconf\/status\/607081530259730434",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/3261940620\/0a27e2dfbd04ac82ccde7502b9b3d16d_normal.png",
+                "author_subname": "@reddotrubyconf",
+                "pretext": "<https:\/\/twitter.com\/reddotrubyconf\/status\/607081530259730434>",
+                "text": "GitHub Patchwork happening now! <https:\/\/pbs.twimg.com\/media\/CGzJbBJVAAQqcwp.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGzJbBJVAAQqcwp.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 41298,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433574491.000046"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: .<https:\/\/twitter.com\/donal|@donal> on the benefits of doing open source projects <https:\/\/twitter.com\/github|@github> &amp; creating a gift giving community <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGzLIHEUkAAv06W.jpg>",
+                "author_name": "Nathania Wong",
+                "author_link": "https:\/\/twitter.com\/NathaniaWong\/status\/607083404287303682",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594158757346586625\/JMeBbqR5_normal.jpg",
+                "author_subname": "@NathaniaWong",
+                "pretext": "<https:\/\/twitter.com\/NathaniaWong\/status\/607083404287303682>",
+                "text": ".<https:\/\/twitter.com\/donal|@donal> on the benefits of doing open source projects <https:\/\/twitter.com\/github|@github> &amp; creating a gift giving community <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGzLIHEUkAAv06W.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGzLIHEUkAAv06W.jpg",
+                "image_width": 600,
+                "image_height": 600,
+                "image_bytes": 36067,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433574937.000047"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/530374167581843459\/LhAoHDYO_normal.jpeg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@engineersftw : Donald sharing about contributing to open source @github Patchwork Singapore <#C05243LGR|rdrc2015> #fringeevent <http:\/\/t.co\/w2yuBLommi> (via Twitter <http:\/\/twitter.com\/engineersftw\/status\/607083294128140288>)",
+                "fallback": "@engineersftw : Donald sharing about contributing to open source @github Patchwork Singapore <#C05243LGR|rdrc2015> #fringeevent <http:\/\/t.co\/w2yuBLommi> (via Twitter <http:\/\/twitter.com\/engineersftw\/status\/607083294128140288>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433575335.000048"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: Opening address by <https:\/\/twitter.com\/jesseplusplus|@jesseplusplus> and <https:\/\/twitter.com\/github|@github> workshop has started! <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGzI44MUkAA5Icp.jpg>",
+                "author_name": "Nathania Wong",
+                "author_link": "https:\/\/twitter.com\/NathaniaWong\/status\/607080944663564288",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594158757346586625\/JMeBbqR5_normal.jpg",
+                "author_subname": "@NathaniaWong",
+                "pretext": "<https:\/\/twitter.com\/NathaniaWong\/status\/607080944663564288>",
+                "text": "Opening address by <https:\/\/twitter.com\/jesseplusplus|@jesseplusplus> and <https:\/\/twitter.com\/github|@github> workshop has started! <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGzI44MUkAA5Icp.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGzI44MUkAA5Icp.jpg",
+                "image_width": 600,
+                "image_height": 600,
+                "image_bytes": 42875,
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/607086095440830464|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433575579.000049"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: .<https:\/\/twitter.com\/donal|@donal> on the benefits of doing open source projects <https:\/\/twitter.com\/github|@github> &amp; creating a gift giving community <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGzLIHEUkAAv06W.jpg>",
+                "author_name": "Nathania Wong",
+                "author_link": "https:\/\/twitter.com\/NathaniaWong\/status\/607083404287303682",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594158757346586625\/JMeBbqR5_normal.jpg",
+                "author_subname": "@NathaniaWong",
+                "pretext": "<https:\/\/twitter.com\/NathaniaWong\/status\/607083404287303682>",
+                "text": ".<https:\/\/twitter.com\/donal|@donal> on the benefits of doing open source projects <https:\/\/twitter.com\/github|@github> &amp; creating a gift giving community <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGzLIHEUkAAv06W.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGzLIHEUkAAv06W.jpg",
+                "image_width": 600,
+                "image_height": 600,
+                "image_bytes": 36067,
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/607086145478868992|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433575590.000050"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/530374167581843459\/LhAoHDYO_normal.jpeg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@engineersftw : Live streaming @github Patchwork SG using @OBSProject <#C05243LGR|rdrc2015> #fossFTW <https:\/\/t.co\/vrFV3lWRwB> <http:\/\/t.co\/xtzbjlD81C> (via Twitter <http:\/\/twitter.com\/engineersftw\/status\/607095617576300544>)",
+                "fallback": "@engineersftw : Live streaming @github Patchwork SG using @OBSProject <#C05243LGR|rdrc2015> #fossFTW <https:\/\/t.co\/vrFV3lWRwB> <http:\/\/t.co\/xtzbjlD81C> (via Twitter <http:\/\/twitter.com\/engineersftw\/status\/607095617576300544>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433578160.000051"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/530374167581843459\/LhAoHDYO_normal.jpeg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@engineersftw : What are they doing? Join in <http:\/\/t.co\/lsyG05PVYP> @github #Patchwork Singapore <#C05243LGR|rdrc2015> <http:\/\/t.co\/xONKl89zTr> (via Twitter <http:\/\/twitter.com\/engineersftw\/status\/607097102305353728>)",
+                "fallback": "@engineersftw : What are they doing? Join in <http:\/\/t.co\/lsyG05PVYP> @github #Patchwork Singapore <#C05243LGR|rdrc2015> <http:\/\/t.co\/xONKl89zTr> (via Twitter <http:\/\/twitter.com\/engineersftw\/status\/607097102305353728>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433579136.000052"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/elishatan|@elishatan>: Slides to my #rdrc2015 talk are here! <https:\/\/speakerdeck.com\/elishatan\/non-tech-contributions-to-the-tech-community> cc <https:\/\/twitter.com\/itsvalli|@itsvalli> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>",
+                "author_name": "Elisha Tan",
+                "author_link": "https:\/\/twitter.com\/elishatan\/status\/607104701423755266",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594537360626331648\/LEDGHW3d_normal.png",
+                "author_subname": "@elishatan",
+                "pretext": "<https:\/\/twitter.com\/elishatan\/status\/607104701423755266>",
+                "text": "Slides to my #rdrc2015 talk are here! <https:\/\/speakerdeck.com\/elishatan\/non-tech-contributions-to-the-tech-community> cc <https:\/\/twitter.com\/itsvalli|@itsvalli> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433580015.000053"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/elishatan|@elishatan>: Slides to my #rdrc2015 talk are here! <https:\/\/speakerdeck.com\/elishatan\/non-tech-contributions-to-the-tech-community> cc <https:\/\/twitter.com\/itsvalli|@itsvalli> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>",
+                "author_name": "Elisha Tan",
+                "author_link": "https:\/\/twitter.com\/elishatan\/status\/607104701423755266",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594537360626331648\/LEDGHW3d_normal.png",
+                "author_subname": "@elishatan",
+                "pretext": "<https:\/\/twitter.com\/elishatan\/status\/607104701423755266>",
+                "text": "Slides to my #rdrc2015 talk are here! <https:\/\/speakerdeck.com\/elishatan\/non-tech-contributions-to-the-tech-community> cc <https:\/\/twitter.com\/itsvalli|@itsvalli> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/607104780494737409|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433580034.000054"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/530374167581843459\/LhAoHDYO_normal.jpeg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@engineersftw : <@U055V5VBW|gaqzi> on now! @github Patchwork Singapore <#C05243LGR|rdrc2015> <http:\/\/t.co\/rg8uhd180r> <http:\/\/t.co\/l96qI61M1J> (via Twitter <http:\/\/twitter.com\/engineersftw\/status\/607104364851765248>)",
+                "fallback": "@engineersftw : <@U055V5VBW|gaqzi> on now! @github Patchwork Singapore <#C05243LGR|rdrc2015> <http:\/\/t.co\/rg8uhd180r> <http:\/\/t.co\/l96qI61M1J> (via Twitter <http:\/\/twitter.com\/engineersftw\/status\/607104364851765248>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433580091.000055"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/468680860523196417\/aRLcq39P_normal.jpeg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@lcpriest : Frickin' tourists. <#C05243LGR|rdrc2015> <http:\/\/t.co\/iuUusrSTUs> (via Twitter <http:\/\/twitter.com\/lcpriest\/status\/607105697990320128>)",
+                "fallback": "@lcpriest : Frickin' tourists. <#C05243LGR|rdrc2015> <http:\/\/t.co\/iuUusrSTUs> (via Twitter <http:\/\/twitter.com\/lcpriest\/status\/607105697990320128>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433581033.000056"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: Hey <https:\/\/twitter.com\/cheeaun|@cheeaun>! Did you create a list of <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> speakers who have released their slides for public viewing?",
+                "author_name": "Nathania Wong",
+                "author_link": "https:\/\/twitter.com\/NathaniaWong\/status\/607115891067650048",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594158757346586625\/JMeBbqR5_normal.jpg",
+                "author_subname": "@NathaniaWong",
+                "pretext": "<https:\/\/twitter.com\/NathaniaWong\/status\/607115891067650048>",
+                "text": "Hey <https:\/\/twitter.com\/cheeaun|@cheeaun>! Did you create a list of <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> speakers who have released their slides for public viewing?",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433582682.000057"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/594042543794323456\/HgB_UMYo_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "<@U056F5LHH|jimmynguyc> : Look what have you done to me <#C05243LGR|rdrc2015> :D <http:\/\/t.co\/vtoIiKktjg> (via Twitter <http:\/\/twitter.com\/jimmynguyc\/status\/607129979470516226>)",
+                "fallback": "<@U056F5LHH|jimmynguyc> : Look what have you done to me <#C05243LGR|rdrc2015> :D <http:\/\/t.co\/vtoIiKktjg> (via Twitter <http:\/\/twitter.com\/jimmynguyc\/status\/607129979470516226>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433586742.000058"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/3283545916\/47a792f0497d20372918494f561d037e_normal.jpeg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@anildigital : Anyone wants my Singapore Night Safari ticket for today? <#C05243LGR|rdrc2015> (via Twitter <http:\/\/twitter.com\/anildigital\/status\/607144881367031808>)",
+                "fallback": "@anildigital : Anyone wants my Singapore Night Safari ticket for today? <#C05243LGR|rdrc2015> (via Twitter <http:\/\/twitter.com\/anildigital\/status\/607144881367031808>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433589621.000059"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/3070884790\/0f324e3c28bba73c8252437b6aa77914_normal.png",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@webuildsg : Remember @_cha1tanya sharing this with us at <#C05243LGR|rdrc2015> :revolving_hearts:<https:\/\/t.co\/sDFxP9k9wa> (via Twitter <http:\/\/twitter.com\/webuildsg\/status\/607149487186796545>)",
+                "fallback": "@webuildsg : Remember @_cha1tanya sharing this with us at <#C05243LGR|rdrc2015> :revolving_hearts:<https:\/\/t.co\/sDFxP9k9wa> (via Twitter <http:\/\/twitter.com\/webuildsg\/status\/607149487186796545>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433591479.000060"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/3070884790\/0f324e3c28bba73c8252437b6aa77914_normal.png",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@webuildsg : Here's the <#C05243LGR|rdrc2015> emoji slides from @JuanitoFatas :gift_heart:<https:\/\/t.co\/sbNYX1QbMQ>  Code reviews will rock henceforth :kissing_heart: (via Twitter <http:\/\/twitter.com\/webuildsg\/status\/607156554853261312>)",
+                "fallback": "@webuildsg : Here's the <#C05243LGR|rdrc2015> emoji slides from @JuanitoFatas :gift_heart:<https:\/\/t.co\/sbNYX1QbMQ>  Code reviews will rock henceforth :kissing_heart: (via Twitter <http:\/\/twitter.com\/webuildsg\/status\/607156554853261312>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433592438.000061"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/adrianchinghc|@adrianchinghc>: Swags we got from <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>.  Time to decorate my MacBook. #rdrc2015 #ruby #railseng\u2026 <http:\/\/ift.tt\/1KLEXHd> <https:\/\/pbs.twimg.com\/media\/CG0f1vKWwAAVMH7.jpg>",
+                "author_name": "Adrian Ching",
+                "author_link": "https:\/\/twitter.com\/adrianchinghc\/status\/607176532897984512",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/525713955381972993\/gEg-7VnH_normal.jpeg",
+                "author_subname": "@adrianchinghc",
+                "pretext": "<https:\/\/twitter.com\/adrianchinghc\/status\/607176532897984512>",
+                "text": "Swags we got from <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>.  Time to decorate my MacBook. #rdrc2015 #ruby #railseng\u2026 <http:\/\/ift.tt\/1KLEXHd> <https:\/\/pbs.twimg.com\/media\/CG0f1vKWwAAVMH7.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CG0f1vKWwAAVMH7.jpg",
+                "image_width": 600,
+                "image_height": 600,
+                "image_bytes": 62105,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433597141.000062"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/engineersftw|@engineersftw>: <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> And here's the video! <https:\/\/www.youtube.com\/watch?v=6v4Tpn5qEzM&amp;list=PLECEw2eFfW7gq56fc0aSIvF1AEg6xmw6k&amp;index=4> <https:\/\/twitter.com\/NitrousIO|@NitrousIO> <https:\/\/twitter.com\/AudreyLim77|@AudreyLim77>",
+                "author_name": "Engineers SG",
+                "author_link": "https:\/\/twitter.com\/engineersftw\/status\/607231718106349569",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/530374167581843459\/LhAoHDYO_normal.jpeg",
+                "author_subname": "@engineersftw",
+                "pretext": "<https:\/\/twitter.com\/engineersftw\/status\/607231718106349569>",
+                "text": "<https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> And here's the video! <https:\/\/www.youtube.com\/watch?v=6v4Tpn5qEzM&amp;list=PLECEw2eFfW7gq56fc0aSIvF1AEg6xmw6k&amp;index=4> <https:\/\/twitter.com\/NitrousIO|@NitrousIO> <https:\/\/twitter.com\/AudreyLim77|@AudreyLim77>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433610298.000063"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/engineersftw|@engineersftw>: Video of <https:\/\/twitter.com\/lindaliukas|@lindaliukas> speaking at #RailsGirls Singapore <https:\/\/www.youtube.com\/watch?v=c_BFKZynT-Y&amp;list=PLECEw2eFfW7gq56fc0aSIvF1AEg6xmw6k&amp;index=2> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #rdrc2015",
+                "author_name": "Engineers SG",
+                "author_link": "https:\/\/twitter.com\/engineersftw\/status\/607232255346405376",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/530374167581843459\/LhAoHDYO_normal.jpeg",
+                "author_subname": "@engineersftw",
+                "pretext": "<https:\/\/twitter.com\/engineersftw\/status\/607232255346405376>",
+                "text": "Video of <https:\/\/twitter.com\/lindaliukas|@lindaliukas> speaking at #RailsGirls Singapore <https:\/\/www.youtube.com\/watch?v=c_BFKZynT-Y&amp;list=PLECEw2eFfW7gq56fc0aSIvF1AEg6xmw6k&amp;index=2> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #rdrc2015",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433610426.000064"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/engineersftw|@engineersftw>: Video of <https:\/\/twitter.com\/vaidehijoshi|@vaidehijoshi> sharing at #RailsGirls Singapore <https:\/\/www.youtube.com\/watch?v=7GwTvQYFKSU&amp;list=PLECEw2eFfW7gq56fc0aSIvF1AEg6xmw6k&amp;index=6> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #rdrc2015",
+                "author_name": "Engineers SG",
+                "author_link": "https:\/\/twitter.com\/engineersftw\/status\/607232490546143233",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/530374167581843459\/LhAoHDYO_normal.jpeg",
+                "author_subname": "@engineersftw",
+                "pretext": "<https:\/\/twitter.com\/engineersftw\/status\/607232490546143233>",
+                "text": "Video of <https:\/\/twitter.com\/vaidehijoshi|@vaidehijoshi> sharing at #RailsGirls Singapore <https:\/\/www.youtube.com\/watch?v=7GwTvQYFKSU&amp;list=PLECEw2eFfW7gq56fc0aSIvF1AEg6xmw6k&amp;index=6> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #rdrc2015",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433610482.000065"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/530374167581843459\/LhAoHDYO_normal.jpeg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@engineersftw : Thanks <@U061DEMDZ|elishatan> for the shout out! <https:\/\/t.co\/p214ElRr8j> <#C05243LGR|rdrc2015> (via Twitter <http:\/\/twitter.com\/engineersftw\/status\/607236882481618944>)",
+                "fallback": "@engineersftw : Thanks <@U061DEMDZ|elishatan> for the shout out! <https:\/\/t.co\/p214ElRr8j> <#C05243LGR|rdrc2015> (via Twitter <http:\/\/twitter.com\/engineersftw\/status\/607236882481618944>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433612429.000066"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: Thanks <https:\/\/twitter.com\/matthewrudy|@matthewrudy> for mentoring me <https:\/\/twitter.com\/railsgirls|@railsgirls> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> workshop and letting me know abt some great gems :D <https:\/\/pbs.twimg.com\/media\/CG1tU1sUcAILIeq.jpg>",
+                "author_name": "Nathania Wong",
+                "author_link": "https:\/\/twitter.com\/NathaniaWong\/status\/607261743471951872",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594158757346586625\/JMeBbqR5_normal.jpg",
+                "author_subname": "@NathaniaWong",
+                "pretext": "<https:\/\/twitter.com\/NathaniaWong\/status\/607261743471951872>",
+                "text": "Thanks <https:\/\/twitter.com\/matthewrudy|@matthewrudy> for mentoring me <https:\/\/twitter.com\/railsgirls|@railsgirls> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> workshop and letting me know abt some great gems :D <https:\/\/pbs.twimg.com\/media\/CG1tU1sUcAILIeq.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CG1tU1sUcAILIeq.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 49822,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433617456.000067"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/engineersftw|@engineersftw>: <https:\/\/twitter.com\/NathaniaWong|@NathaniaWong> LOL at <https:\/\/twitter.com\/stania_ang|@stania_ang>'s expression. <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>",
+                "author_name": "Engineers SG",
+                "author_link": "https:\/\/twitter.com\/engineersftw\/status\/607351361357750274",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/530374167581843459\/LhAoHDYO_normal.jpeg",
+                "author_subname": "@engineersftw",
+                "pretext": "<https:\/\/twitter.com\/engineersftw\/status\/607351361357750274>",
+                "text": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong> LOL at <https:\/\/twitter.com\/stania_ang|@stania_ang>'s expression. <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433638823.000002"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/engineersftw|@engineersftw>: Video of <https:\/\/twitter.com\/lindaliukas|@lindaliukas> speaking at #RailsGirls Singapore <https:\/\/www.youtube.com\/watch?v=c_BFKZynT-Y&amp;list=PLECEw2eFfW7gq56fc0aSIvF1AEg6xmw6k&amp;index=2> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #rdrc2015",
+                "author_name": "Engineers SG",
+                "author_link": "https:\/\/twitter.com\/engineersftw\/status\/607232255346405376",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/530374167581843459\/LhAoHDYO_normal.jpeg",
+                "author_subname": "@engineersftw",
+                "pretext": "<https:\/\/twitter.com\/engineersftw\/status\/607232255346405376>",
+                "text": "Video of <https:\/\/twitter.com\/lindaliukas|@lindaliukas> speaking at #RailsGirls Singapore <https:\/\/www.youtube.com\/watch?v=c_BFKZynT-Y&amp;list=PLECEw2eFfW7gq56fc0aSIvF1AEg6xmw6k&amp;index=2> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #rdrc2015",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/607358154616115200|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433640443.000003"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/engineersftw|@engineersftw>: Video of <https:\/\/twitter.com\/vaidehijoshi|@vaidehijoshi> sharing at #RailsGirls Singapore <https:\/\/www.youtube.com\/watch?v=7GwTvQYFKSU&amp;list=PLECEw2eFfW7gq56fc0aSIvF1AEg6xmw6k&amp;index=6> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #rdrc2015",
+                "author_name": "Engineers SG",
+                "author_link": "https:\/\/twitter.com\/engineersftw\/status\/607232490546143233",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/530374167581843459\/LhAoHDYO_normal.jpeg",
+                "author_subname": "@engineersftw",
+                "pretext": "<https:\/\/twitter.com\/engineersftw\/status\/607232490546143233>",
+                "text": "Video of <https:\/\/twitter.com\/vaidehijoshi|@vaidehijoshi> sharing at #RailsGirls Singapore <https:\/\/www.youtube.com\/watch?v=7GwTvQYFKSU&amp;list=PLECEw2eFfW7gq56fc0aSIvF1AEg6xmw6k&amp;index=6> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #rdrc2015",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/607358170386722816|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433640446.000004"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/webuildsg|@webuildsg>: Here's the #rdrc2015 emoji slides from <https:\/\/twitter.com\/JuanitoFatas|@JuanitoFatas> :gift_heart:<https:\/\/speakerdeck.com\/juanitofatas\/how-emoji-changed-my-life>  Code reviews will rock henceforth :kissing_heart:",
+                "author_name": "We Build SG",
+                "author_link": "https:\/\/twitter.com\/webuildsg\/status\/607156554853261312",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/3070884790\/0f324e3c28bba73c8252437b6aa77914_normal.png",
+                "author_subname": "@webuildsg",
+                "pretext": "<https:\/\/twitter.com\/webuildsg\/status\/607156554853261312>",
+                "text": "Here's the #rdrc2015 emoji slides from <https:\/\/twitter.com\/JuanitoFatas|@JuanitoFatas> :gift_heart:<https:\/\/speakerdeck.com\/juanitofatas\/how-emoji-changed-my-life>  Code reviews will rock henceforth :kissing_heart:",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/607358220055674882|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433640458.000005"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/engineersftw|@engineersftw>: <https:\/\/twitter.com\/gaqzi|@gaqzi> on now! <https:\/\/twitter.com\/github|@github> Patchwork Singapore #rdrc2015 <http:\/\/youtu.be\/ySS4S9zDN9w> <https:\/\/pbs.twimg.com\/media\/CGzeMX3VAAAjdj2.jpg>",
+                "author_name": "Engineers SG",
+                "author_link": "https:\/\/twitter.com\/engineersftw\/status\/607104364851765248",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/530374167581843459\/LhAoHDYO_normal.jpeg",
+                "author_subname": "@engineersftw",
+                "pretext": "<https:\/\/twitter.com\/engineersftw\/status\/607104364851765248>",
+                "text": "<https:\/\/twitter.com\/gaqzi|@gaqzi> on now! <https:\/\/twitter.com\/github|@github> Patchwork Singapore #rdrc2015 <http:\/\/youtu.be\/ySS4S9zDN9w> <https:\/\/pbs.twimg.com\/media\/CGzeMX3VAAAjdj2.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGzeMX3VAAAjdj2.jpg",
+                "image_width": 600,
+                "image_height": 800,
+                "image_bytes": 53456,
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/607358297562226688|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433640477.000006"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/engineersftw|@engineersftw>: What are they doing? Join in <http:\/\/guides.github.com\/activities\/hello-world> <https:\/\/twitter.com\/github|@github> #Patchwork Singapore #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGzXkzsUkAAXCKr.jpg>",
+                "author_name": "Engineers SG",
+                "author_link": "https:\/\/twitter.com\/engineersftw\/status\/607097102305353728",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/530374167581843459\/LhAoHDYO_normal.jpeg",
+                "author_subname": "@engineersftw",
+                "pretext": "<https:\/\/twitter.com\/engineersftw\/status\/607097102305353728>",
+                "text": "What are they doing? Join in <http:\/\/guides.github.com\/activities\/hello-world> <https:\/\/twitter.com\/github|@github> #Patchwork Singapore #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGzXkzsUkAAXCKr.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGzXkzsUkAAXCKr.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 56543,
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/607358332211363840|@reddotrubyconf>"
+            },
+            {
+                "text": "<https:\/\/pbs.twimg.com\/media\/CGzXkzrUkAAtWok.jpg>",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGzXkzrUkAAtWok.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 46311
+            },
+            {
+                "text": "<https:\/\/pbs.twimg.com\/media\/CGzXkzuUcAAQKrL.jpg>",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGzXkzuUcAAQKrL.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 57367
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433640485.000007"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/Gherry|@Gherry>: High quality talks @ #rdrc2015 this year - thoroughly enjoyed it",
+                "author_name": "Gherry",
+                "author_link": "https:\/\/twitter.com\/Gherry\/status\/607046578046525440",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/2681289464\/b7b48dd2c707a003ba947b3220df1f6f_normal.jpeg",
+                "author_subname": "@Gherry",
+                "pretext": "<https:\/\/twitter.com\/Gherry\/status\/607046578046525440>",
+                "text": "High quality talks @ #rdrc2015 this year - thoroughly enjoyed it",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/607358402239406080|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433640502.000008"
+    },
+    {
+        "user": "U03TFF94K",
+        "topic": "Check out https:\/\/gist.github.com\/cheeaun\/2b6a985d65093b4b1a3d for RDRC links and resources!",
+        "type": "message",
+        "subtype": "channel_topic",
+        "text": "<@U03TFF94K|cheeaun> set the channel topic: Check out https:\/\/gist.github.com\/cheeaun\/2b6a985d65093b4b1a3d for RDRC links and resources!",
+        "ts": "1433641447.000009"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/430949474865664003\/reyQgDwe_normal.jpeg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@winstonyw : #rubyfriends <#C05243LGR|rdrc2015> <http:\/\/t.co\/5MDYySt510> (via Twitter <http:\/\/twitter.com\/winstonyw\/status\/607360403006357504>)",
+                "fallback": "@winstonyw : #rubyfriends <#C05243LGR|rdrc2015> <http:\/\/t.co\/5MDYySt510> (via Twitter <http:\/\/twitter.com\/winstonyw\/status\/607360403006357504>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433641936.000010"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/430949474865664003\/reyQgDwe_normal.jpeg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@winstonyw : Finally done with <#C05243LGR|rdrc2015> - 5 days of events! What was I thinking? :joy::scream: Thank you everyone for speaking, attending and helping with RDRC! :kissing_heart::sparkling_heart: (via Twitter <http:\/\/twitter.com\/winstonyw\/status\/607361047628935168>)",
+                "fallback": "@winstonyw : Finally done with <#C05243LGR|rdrc2015> - 5 days of events! What was I thinking? :joy::scream: Thank you everyone for speaking, attending and helping with RDRC! :kissing_heart::sparkling_heart: (via Twitter <http:\/\/twitter.com\/winstonyw\/status\/607361047628935168>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433641937.000011"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/586534241799766017\/jN4Y6OPR_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "<@U03T1D0UV|sausheong> : Having a frustrating time uploading my <#C05243LGR|rdrc2015> slides to SpeakerDeck, failing and hanging for the past day. Any other suggestions? (via Twitter <http:\/\/twitter.com\/sausheong\/status\/607364580096905217>)",
+                "fallback": "<@U03T1D0UV|sausheong> : Having a frustrating time uploading my <#C05243LGR|rdrc2015> slides to SpeakerDeck, failing and hanging for the past day. Any other suggestions? (via Twitter <http:\/\/twitter.com\/sausheong\/status\/607364580096905217>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433642897.000012"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/barrogantastard|@barrogantastard>: Absolutely enjoyed #rdrc2015. Getting ready to get back. Thanks a ton, <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>!",
+                "author_name": "barrogantastard",
+                "author_link": "https:\/\/twitter.com\/barrogantastard\/status\/607371186071203841",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/574607122467442688\/lCW9KHy2_normal.jpeg",
+                "author_subname": "@barrogantastard",
+                "pretext": "<https:\/\/twitter.com\/barrogantastard\/status\/607371186071203841>",
+                "text": "Absolutely enjoyed #rdrc2015. Getting ready to get back. Thanks a ton, <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>!",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433643549.000013"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/508440681094721536\/rJg9wHMg_normal.png",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@stania_ang : Slides for my Collaborating with Contracts talk at <#C05243LGR|rdrc2015> <https:\/\/t.co\/wxiut9V1HF> (via Twitter <http:\/\/twitter.com\/stania_ang\/status\/607371865611333632>)",
+                "fallback": "@stania_ang : Slides for my Collaborating with Contracts talk at <#C05243LGR|rdrc2015> <https:\/\/t.co\/wxiut9V1HF> (via Twitter <http:\/\/twitter.com\/stania_ang\/status\/607371865611333632>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433643873.000014"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/stania_ang|@stania_ang>: <https:\/\/twitter.com\/engineersftw|@engineersftw> <https:\/\/twitter.com\/NathaniaWong|@NathaniaWong> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> :grin::kissing_heart:",
+                "author_name": "Sofia Tania",
+                "author_link": "https:\/\/twitter.com\/stania_ang\/status\/607373485044678656",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/508440681094721536\/rJg9wHMg_normal.png",
+                "author_subname": "@stania_ang",
+                "pretext": "<https:\/\/twitter.com\/stania_ang\/status\/607373485044678656>",
+                "text": "<https:\/\/twitter.com\/engineersftw|@engineersftw> <https:\/\/twitter.com\/NathaniaWong|@NathaniaWong> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> :grin::kissing_heart:",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433644098.000015"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/laura_nobilis|@laura_nobilis>: On the way to the airport. Had a great time and met lots of awesome people! Thanks <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> :) #rdrc2015",
+                "author_name": "Laura Eck",
+                "author_link": "https:\/\/twitter.com\/laura_nobilis\/status\/607376228174028800",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/586345814580076545\/YCQDjNGn_normal.jpg",
+                "author_subname": "@laura_nobilis",
+                "pretext": "<https:\/\/twitter.com\/laura_nobilis\/status\/607376228174028800>",
+                "text": "On the way to the airport. Had a great time and met lots of awesome people! Thanks <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> :) #rdrc2015",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433644751.000016"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/508440681094721536\/rJg9wHMg_normal.png",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@stania_ang : @winstonyw @engineersftw @NathaniaWong the flood of emojis from <#C05243LGR|rdrc2015>  has affected my expressions! (via Twitter <http:\/\/twitter.com\/stania_ang\/status\/607374902417432576>)",
+                "fallback": "@stania_ang : @winstonyw @engineersftw @NathaniaWong the flood of emojis from <#C05243LGR|rdrc2015>  has affected my expressions! (via Twitter <http:\/\/twitter.com\/stania_ang\/status\/607374902417432576>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433644761.000017"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/stania_ang|@stania_ang>: Slides for my Collaborating with Contracts talk at #rdrc2015 <https:\/\/speakerdeck.com\/stania1\/collaborating-with-contracts>",
+                "author_name": "Sofia Tania",
+                "author_link": "https:\/\/twitter.com\/stania_ang\/status\/607371865611333632",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/508440681094721536\/rJg9wHMg_normal.png",
+                "author_subname": "@stania_ang",
+                "pretext": "<https:\/\/twitter.com\/stania_ang\/status\/607371865611333632>",
+                "text": "Slides for my Collaborating with Contracts talk at #rdrc2015 <https:\/\/speakerdeck.com\/stania1\/collaborating-with-contracts>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/607376489361735681|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433644814.000018"
+    }
+]

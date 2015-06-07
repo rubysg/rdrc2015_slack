@@ -1,0 +1,154 @@
+[
+    {
+        "type": "message",
+        "user": "U0495CX2W",
+        "text": ":scream_cat: <@U053VKPB7> ",
+        "edited": {
+            "user": "U0495CX2W",
+            "ts": "1433000767.000000"
+        },
+        "ts": "1433000746.000002"
+    },
+    {
+        "type": "message",
+        "user": "U03TG6YTU",
+        "text": "yeah :smile: <@U0495CX2W>",
+        "ts": "1433001062.000004"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/casey_lang|@casey_lang>: Switching to Singapore time tonight in an attempt to minimize jet lag before <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>. Excited about the conf, sad about my sleep.",
+                "author_name": "Casey Lang",
+                "author_link": "https:\/\/twitter.com\/casey_lang\/status\/604789688436539393",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/425508935311716353\/1aHiZMUr_normal.jpeg",
+                "author_subname": "@casey_lang",
+                "pretext": "<https:\/\/twitter.com\/casey_lang\/status\/604789688436539393>",
+                "text": "Switching to Singapore time tonight in an attempt to minimize jet lag before <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>. Excited about the conf, sad about my sleep.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433028073.000005"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/sailorhg|@sailorhg>: leaving for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> in singapore tomorrow! come say hello &amp; get a bubblesort zines sticker! <https:\/\/pbs.twimg.com\/media\/CGTh7j3UAAAmkqb.jpg>",
+                "author_name": "sailor mercury",
+                "author_link": "https:\/\/twitter.com\/sailorhg\/status\/604856666211774464",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/529090752660267008\/rZAT4oUh_normal.png",
+                "author_subname": "@sailorhg",
+                "pretext": "<https:\/\/twitter.com\/sailorhg\/status\/604856666211774464>",
+                "text": "leaving for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> in singapore tomorrow! come say hello &amp; get a bubblesort zines sticker! <https:\/\/pbs.twimg.com\/media\/CGTh7j3UAAAmkqb.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGTh7j3UAAAmkqb.jpg",
+                "image_width": 599,
+                "image_height": 399,
+                "image_bytes": 27517,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433044041.000006"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/sailorhg|@sailorhg>: leaving for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> in singapore tomorrow! come say hello &amp; get a bubblesort zines sticker! <https:\/\/pbs.twimg.com\/media\/CGTh7j3UAAAmkqb.jpg>",
+                "author_name": "sailor mercury",
+                "author_link": "https:\/\/twitter.com\/sailorhg\/status\/604856666211774464",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/529090752660267008\/rZAT4oUh_normal.png",
+                "author_subname": "@sailorhg",
+                "pretext": "<https:\/\/twitter.com\/sailorhg\/status\/604856666211774464>",
+                "text": "leaving for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> in singapore tomorrow! come say hello &amp; get a bubblesort zines sticker! <https:\/\/pbs.twimg.com\/media\/CGTh7j3UAAAmkqb.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGTh7j3UAAAmkqb.jpg",
+                "image_width": 599,
+                "image_height": 399,
+                "image_bytes": 27517,
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/604879470051368960|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433049478.000007"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/casey_lang|@casey_lang>: Switching to Singapore time tonight in an attempt to minimize jet lag before <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>. Excited about the conf, sad about my sleep.",
+                "author_name": "Casey Lang",
+                "author_link": "https:\/\/twitter.com\/casey_lang\/status\/604789688436539393",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/425508935311716353\/1aHiZMUr_normal.jpeg",
+                "author_subname": "@casey_lang",
+                "pretext": "<https:\/\/twitter.com\/casey_lang\/status\/604789688436539393>",
+                "text": "Switching to Singapore time tonight in an attempt to minimize jet lag before <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>. Excited about the conf, sad about my sleep.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/604879497310126080|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433049485.000008"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/jin_|@jin_>: PSA: #rubysg has a guide to Singapore for our friends coming for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> next week here: <https:\/\/github.com\/rubysg\/singapore>\n\n#rdrc2015",
+                "author_name": "jin",
+                "author_link": "https:\/\/twitter.com\/jin_\/status\/604891171295346688",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/579812718640656385\/h4_ESfXl_normal.jpg",
+                "author_subname": "@jin_",
+                "pretext": "<https:\/\/twitter.com\/jin_\/status\/604891171295346688>",
+                "text": "PSA: #rubysg has a guide to Singapore for our friends coming for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> next week here: <https:\/\/github.com\/rubysg\/singapore>\n\n#rdrc2015",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433052268.000009"
+    },
+    {
+        "type": "message",
+        "user": "U0463AE1C",
+        "text": "omgomg she\u2019s coming!!",
+        "ts": "1433053217.000010"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: OMG <https:\/\/twitter.com\/sailorhg|@sailorhg> you're coming over! Please save a sticker for me :D Can't wait to meet you <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #rdrc2015  <https:\/\/twitter.com\/sailorhg\/status\/604856666211774464>",
+                "author_name": "Nathania Wong",
+                "author_link": "https:\/\/twitter.com\/NathaniaWong\/status\/604895685398306817",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594158757346586625\/JMeBbqR5_normal.jpg",
+                "author_subname": "@NathaniaWong",
+                "pretext": "<https:\/\/twitter.com\/NathaniaWong\/status\/604895685398306817>",
+                "text": "OMG <https:\/\/twitter.com\/sailorhg|@sailorhg> you're coming over! Please save a sticker for me :D Can't wait to meet you <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #rdrc2015  <https:\/\/twitter.com\/sailorhg\/status\/604856666211774464>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433053344.000011"
+    }
+]

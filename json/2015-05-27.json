@@ -1,0 +1,172 @@
+[
+    {
+        "user": "U04TFHR4K",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U04TFHR4K|jcwilk> has joined the channel",
+        "ts": "1432712195.000042"
+    },
+    {
+        "type": "message",
+        "user": "U03TFF94K",
+        "text": "oh, what did we use last year? <@U03SWKEV5>",
+        "ts": "1432713935.000043"
+    },
+    {
+        "type": "message",
+        "user": "U03TFF94K",
+        "text": "can be #reddot too",
+        "ts": "1432713942.000044"
+    },
+    {
+        "type": "message",
+        "user": "U03SWKEV5",
+        "text": "last year was #rdrc2014",
+        "ts": "1432713960.000045"
+    },
+    {
+        "type": "message",
+        "user": "U03TFF94K",
+        "text": "hmm",
+        "ts": "1432713971.000046"
+    },
+    {
+        "type": "message",
+        "user": "U03TFF94K",
+        "text": "I guess <#C05243LGR> then",
+        "ts": "1432713980.000047"
+    },
+    {
+        "type": "message",
+        "user": "U03TFF94K",
+        "text": "kinda weird when you need to \u201cnamespace\u201d hashtags",
+        "ts": "1432714008.000048"
+    },
+    {
+        "user": "U0521SV3G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0521SV3G|eibayan> has joined the channel",
+        "ts": "1432714199.000049"
+    },
+    {
+        "type": "message",
+        "user": "U0521SV3G",
+        "text": "it's good to see you all there..",
+        "ts": "1432714225.000050"
+    },
+    {
+        "type": "message",
+        "user": "U03TFF94K",
+        "text": "<@U0521SV3G>: :wave:",
+        "ts": "1432714466.000051"
+    },
+    {
+        "type": "message",
+        "user": "U0521SV3G",
+        "text": "it's my first time to join.. and my first time to learn ruby as well..do i need to understand the basics before attending it?",
+        "ts": "1432714812.000052"
+    },
+    {
+        "type": "message",
+        "user": "U03TFF94K",
+        "text": "<@U0521SV3G>: not really a requirement. Understanding the basics would be nice though :simple_smile:",
+        "ts": "1432715190.000053"
+    },
+    {
+        "type": "message",
+        "user": "U0521SV3G",
+        "text": "thanks for the heads up.",
+        "ts": "1432715635.000054"
+    },
+    {
+        "user": "U0525BX7A",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0525BX7A|lincoln> has joined the channel",
+        "ts": "1432729690.000055"
+    },
+    {
+        "user": "U0523VDLW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0523VDLW|raphael> has joined the channel",
+        "ts": "1432730016.000056"
+    },
+    {
+        "user": "U03T12D4A",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U03T12D4A|jin> has joined the channel",
+        "ts": "1432730779.000057"
+    },
+    {
+        "user": "U03U527KC",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U03U527KC|jsyeo> has joined the channel",
+        "ts": "1432739296.000058"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/tenderlove|@tenderlove>: I'm really excited about speaking at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>!!! I *hope* my talk will be interesting.",
+                "author_name": "Aaron Patterson",
+                "author_link": "https:\/\/twitter.com\/tenderlove\/status\/603596319458856960",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/378800000325798111\/ca48276f8ebbbbac9c6ce83aac3c8548_normal.jpeg",
+                "author_subname": "@tenderlove",
+                "pretext": "<https:\/\/twitter.com\/tenderlove\/status\/603596319458856960>",
+                "text": "I'm really excited about speaking at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>!!! I *hope* my talk will be interesting.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1432743551.000059"
+    },
+    {
+        "user": "U051YAZT6",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U051YAZT6|steakunderscore> has joined the channel",
+        "ts": "1432759252.000060"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/tenderlove|@tenderlove>: I'm really excited about speaking at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>!!! I *hope* my talk will be interesting.",
+                "author_name": "Aaron Patterson",
+                "author_link": "https:\/\/twitter.com\/tenderlove\/status\/603596319458856960",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/378800000325798111\/ca48276f8ebbbbac9c6ce83aac3c8548_normal.jpeg",
+                "author_subname": "@tenderlove",
+                "pretext": "<https:\/\/twitter.com\/tenderlove\/status\/603596319458856960>",
+                "text": "I'm really excited about speaking at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>!!! I *hope* my talk will be interesting.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/603706585630769152|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1432769841.000061"
+    },
+    {
+        "user": "U042JF723",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U042JF723|giosakti> has joined the channel",
+        "ts": "1432770559.000062"
+    },
+    {
+        "user": "U0535E5UR",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0535E5UR|cedric> has joined the channel",
+        "ts": "1432777739.000063"
+    }
+]

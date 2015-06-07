@@ -1,0 +1,315 @@
+[
+    {
+        "user": "U03SWKEV5",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U03SWKEV5|winston> has joined the channel",
+        "ts": "1432626341.000002"
+    },
+    {
+        "user": "U03SWKEV5",
+        "purpose": "This is the back channel chat room for RDRC 2015, happening on 4, 5 June.",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U03SWKEV5|winston> set the channel purpose: This is the back channel chat room for RDRC 2015, happening on 4, 5 June.",
+        "ts": "1432626342.000003"
+    },
+    {
+        "user": "U03SWKEV5",
+        "old_name": "reddotrubyconf2015",
+        "name": "rdrc2015",
+        "type": "message",
+        "subtype": "channel_name",
+        "text": "<@U03SWKEV5|winston> has renamed the channel from \"reddotrubyconf2015\" to \"rdrc2015\"",
+        "ts": "1432626749.000004"
+    },
+    {
+        "type": "message",
+        "user": "U03SWKEV5",
+        "text": "Going to use this as the back channel chat room for RDRC2015. Only downside is that because this is free, Slack will not store archives of older messages.",
+        "ts": "1432627114.000005"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>: Updated the website with a list of the fringe events: <http:\/\/www.reddotrubyconf.com\/#fringe-events> \n1) SG Ruby Meetup\n2) Rails Girls SG\n3) GitHub Patchwork SG",
+                "author_name": "RedDotRubyConf",
+                "author_link": "https:\/\/twitter.com\/reddotrubyconf\/status\/603149458520592384",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/3261940620\/0a27e2dfbd04ac82ccde7502b9b3d16d_normal.png",
+                "author_subname": "@reddotrubyconf",
+                "pretext": "<https:\/\/twitter.com\/reddotrubyconf\/status\/603149458520592384>",
+                "text": "Updated the website with a list of the fringe events: <http:\/\/www.reddotrubyconf.com\/#fringe-events> \n1) SG Ruby Meetup\n2) Rails Girls SG\n3) GitHub Patchwork SG",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1432637011.000006"
+    },
+    {
+        "user": "U03TDFG4T",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U03TDFG4T|juanitofatas> has joined the channel",
+        "ts": "1432693599.000002"
+    },
+    {
+        "user": "U052L34TD",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U052L34TD|calumhalcrow> has joined the channel",
+        "ts": "1432693762.000003"
+    },
+    {
+        "user": "U03TZAYV5",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U03TZAYV5|paul_ylz> has joined the channel",
+        "ts": "1432695328.000004"
+    },
+    {
+        "type": "message",
+        "user": "U03TZAYV5",
+        "text": "great email <@U03SWKEV5>",
+        "ts": "1432695340.000005"
+    },
+    {
+        "type": "message",
+        "user": "U03SWKEV5",
+        "text": "Thanks <@U03TZAYV5> ! :simple_smile:",
+        "ts": "1432695360.000006"
+    },
+    {
+        "user": "U03T45T7Q",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U03T45T7Q|shinn> has joined the channel",
+        "ts": "1432696220.000007"
+    },
+    {
+        "user": "U052LRPJZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U052LRPJZ|gazay> has joined the channel",
+        "ts": "1432697383.000008"
+    },
+    {
+        "user": "U052LSF3X",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U052LSF3X|prathamesh> has joined the channel",
+        "ts": "1432697399.000009"
+    },
+    {
+        "user": "U0463AE1C",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0463AE1C|nathania> has joined the channel",
+        "ts": "1432697418.000010"
+    },
+    {
+        "user": "U03TFF94K",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U03TFF94K|cheeaun> has joined the channel",
+        "ts": "1432697562.000011"
+    },
+    {
+        "user": "U03TG6YTU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U03TG6YTU|sayanee> has joined the channel",
+        "ts": "1432697893.000012"
+    },
+    {
+        "type": "message",
+        "user": "U03TG6YTU",
+        "text": ":wave:",
+        "ts": "1432697899.000013"
+    },
+    {
+        "type": "message",
+        "user": "U03TG6YTU",
+        "text": "see you all next week :heart:",
+        "ts": "1432697904.000014"
+    },
+    {
+        "type": "message",
+        "user": "U0463AE1C",
+        "text": ":smile:",
+        "ts": "1432698008.000015"
+    },
+    {
+        "user": "U0495CX2W",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0495CX2W|kevintran> has joined the channel",
+        "ts": "1432698327.000016"
+    },
+    {
+        "type": "message",
+        "user": "U03TFF94K",
+        "text": ":wave: :wave: :wave:",
+        "ts": "1432698622.000017"
+    },
+    {
+        "user": "U03THSWAU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U03THSWAU|ted> has joined the channel",
+        "ts": "1432699266.000018"
+    },
+    {
+        "type": "message",
+        "user": "U03THSWAU",
+        "text": "Hype!",
+        "ts": "1432699277.000019"
+    },
+    {
+        "user": "U03SWKEV5",
+        "purpose": "This is the back channel chat room for RDRC 2015, happening on 4, 5 June. Our moderator for this channel is @cheeaun!",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U03SWKEV5|winston> set the channel purpose: This is the back channel chat room for RDRC 2015, happening on 4, 5 June. Our moderator for this channel is @cheeaun!",
+        "ts": "1432699907.000020"
+    },
+    {
+        "type": "message",
+        "user": "U03TFF94K",
+        "text": ":thumbsup:",
+        "ts": "1432699921.000021"
+    },
+    {
+        "user": "U03SWKEV5",
+        "purpose": "Back channel chat room for RDRC 2015, happening on 4, 5 June. Our moderator for this channel is @cheeaun!",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U03SWKEV5|winston> set the channel purpose: Back channel chat room for RDRC 2015, happening on 4, 5 June. Our moderator for this channel is @cheeaun!",
+        "ts": "1432699922.000022"
+    },
+    {
+        "type": "message",
+        "user": "U03TFF94K",
+        "text": "uh, :thumbsup: again",
+        "ts": "1432699937.000023"
+    },
+    {
+        "user": "U03SWKEV5",
+        "purpose": "Back channel chat room for RDRC 2015, happening on 4, 5 June. Moderator for this channel is @cheeaun!",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U03SWKEV5|winston> set the channel purpose: Back channel chat room for RDRC 2015, happening on 4, 5 June. Moderator for this channel is @cheeaun!",
+        "ts": "1432699938.000024"
+    },
+    {
+        "type": "message",
+        "user": "U03TFF94K",
+        "text": "srsly?",
+        "ts": "1432699948.000025"
+    },
+    {
+        "type": "message",
+        "user": "U03SWKEV5",
+        "text": "oops. ocd at work",
+        "ts": "1432699970.000026"
+    },
+    {
+        "type": "message",
+        "user": "U03SWKEV5",
+        "text": "haha",
+        "ts": "1432699971.000027"
+    },
+    {
+        "type": "message",
+        "user": "U03TFF94K",
+        "text": "lol",
+        "ts": "1432700095.000028"
+    },
+    {
+        "user": "U03TFF94K",
+        "topic": "Fringe events! http:\/\/www.reddotrubyconf.com\/#fringe-events",
+        "type": "message",
+        "subtype": "channel_topic",
+        "text": "<@U03TFF94K|cheeaun> set the channel topic: Fringe events! http:\/\/www.reddotrubyconf.com\/#fringe-events",
+        "ts": "1432700133.000029"
+    },
+    {
+        "type": "message",
+        "user": "U03SWKEV5",
+        "text": ":+1: ",
+        "edited": {
+            "user": "U03SWKEV5",
+            "ts": "1432700154.000000"
+        },
+        "ts": "1432700151.000030"
+    },
+    {
+        "user": "U051ZMC7C",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U051ZMC7C|gdpelican> has joined the channel",
+        "ts": "1432700273.000032"
+    },
+    {
+        "user": "U03TNLJA8",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U03TNLJA8|zxr90> has joined the channel",
+        "ts": "1432701188.000033"
+    },
+    {
+        "user": "U052MGFDZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U052MGFDZ|indirect> has joined the channel",
+        "ts": "1432701354.000034"
+    },
+    {
+        "user": "U052MGXNH",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U052MGXNH|jan> has joined the channel",
+        "ts": "1432701495.000035"
+    },
+    {
+        "type": "message",
+        "user": "U03TG6YTU",
+        "text": "what\u2019s the official twitter hashtag for rdrc?",
+        "ts": "1432703370.000036"
+    },
+    {
+        "type": "message",
+        "user": "U03TG6YTU",
+        "text": "<#C05243LGR>?",
+        "ts": "1432703373.000037"
+    },
+    {
+        "user": "U052LF78M",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U052LF78M|bayu41studio> has joined the channel",
+        "ts": "1432703469.000038"
+    },
+    {
+        "type": "message",
+        "user": "U03TFF94K",
+        "text": "I think #rdrc ? shorter, faster to type",
+        "ts": "1432704127.000039"
+    },
+    {
+        "type": "message",
+        "user": "U03SWKEV5",
+        "text": "#rdrc clashed with some racing event in the past",
+        "ts": "1432706546.000040"
+    },
+    {
+        "user": "U05210494",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U05210494|mutablestate> has joined the channel",
+        "ts": "1432708475.000041"
+    }
+]

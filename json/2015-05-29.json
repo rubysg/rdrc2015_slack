@@ -1,0 +1,39 @@
+[
+    {
+        "user": "U053VKPB7",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U053VKPB7|samhon> has joined the channel",
+        "ts": "1432897128.000081"
+    },
+    {
+        "type": "message",
+        "user": "U053VKPB7",
+        "text": "Hey ",
+        "ts": "1432897138.000082"
+    },
+    {
+        "type": "message",
+        "user": "U053VKPB7",
+        "text": ":stuck_out_tongue_closed_eyes:",
+        "ts": "1432897141.000083"
+    },
+    {
+        "type": "message",
+        "user": "U03TG6YTU",
+        "text": ":wave: <@U053VKPB7>",
+        "ts": "1432897233.000084"
+    },
+    {
+        "type": "message",
+        "user": "U053VKPB7",
+        "text": ":thumbsup:",
+        "ts": "1432899275.000085"
+    },
+    {
+        "type": "message",
+        "user": "U052LSF3X",
+        "text": "awesome :smile:",
+        "ts": "1432909471.000086"
+    }
+]

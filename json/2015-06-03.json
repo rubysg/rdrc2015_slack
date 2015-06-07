@@ -1,0 +1,2460 @@
+[
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>: Setting up the venue. <https:\/\/pbs.twimg.com\/media\/CGj-pxPUQAA4IfG.jpg>",
+                "author_name": "RedDotRubyConf",
+                "author_link": "https:\/\/twitter.com\/reddotrubyconf\/status\/606014158585225216",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/3261940620\/0a27e2dfbd04ac82ccde7502b9b3d16d_normal.png",
+                "author_subname": "@reddotrubyconf",
+                "pretext": "<https:\/\/twitter.com\/reddotrubyconf\/status\/606014158585225216>",
+                "text": "Setting up the venue. <https:\/\/pbs.twimg.com\/media\/CGj-pxPUQAA4IfG.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGj-pxPUQAA4IfG.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 25883,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433320009.000015"
+    },
+    {
+        "type": "message",
+        "user": "U053VKPB7",
+        "text": ":thumbsup:",
+        "ts": "1433321011.000016"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/bentanweihao|@bentanweihao>: Anybody I know heading to <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> tml?",
+                "author_name": "Benjamin Tan Wei Hao",
+                "author_link": "https:\/\/twitter.com\/bentanweihao\/status\/606048715569119232",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/2545563040\/idqc6w7fj9ju5io823z1_normal.jpeg",
+                "author_subname": "@bentanweihao",
+                "pretext": "<https:\/\/twitter.com\/bentanweihao\/status\/606048715569119232>",
+                "text": "Anybody I know heading to <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> tml?",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433328248.000017"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: Thanks <https:\/\/twitter.com\/lrz|@lrz> for <https:\/\/twitter.com\/RubyMotion|@RubyMotion> workshop <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> It was great building a simple timer for Android &amp; iOS #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGkfdFoUYAAP_to.png>",
+                "author_name": "Nathania Wong",
+                "author_link": "https:\/\/twitter.com\/NathaniaWong\/status\/606050211518021633",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594158757346586625\/JMeBbqR5_normal.jpg",
+                "author_subname": "@NathaniaWong",
+                "pretext": "<https:\/\/twitter.com\/NathaniaWong\/status\/606050211518021633>",
+                "text": "Thanks <https:\/\/twitter.com\/lrz|@lrz> for <https:\/\/twitter.com\/RubyMotion|@RubyMotion> workshop <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> It was great building a simple timer for Android &amp; iOS #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGkfdFoUYAAP_to.png>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGkfdFoUYAAP_to.png",
+                "image_width": 600,
+                "image_height": 375,
+                "image_bytes": 188121,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433328605.000018"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/adrianchinghc|@adrianchinghc>: On my way to Singapore for #rdrc2015 . Can't wait. #railsengineer #digitalnomadinmaking #s\u2026 <http:\/\/ift.tt\/1FrRNpu> <https:\/\/pbs.twimg.com\/media\/CGjKJcfXIAAYSQN.jpg>",
+                "author_name": "Adrian Ching",
+                "author_link": "https:\/\/twitter.com\/adrianchinghc\/status\/605956413614137344",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/525713955381972993\/gEg-7VnH_normal.jpeg",
+                "author_subname": "@adrianchinghc",
+                "pretext": "<https:\/\/twitter.com\/adrianchinghc\/status\/605956413614137344>",
+                "text": "On my way to Singapore for #rdrc2015 . Can't wait. #railsengineer #digitalnomadinmaking #s\u2026 <http:\/\/ift.tt\/1FrRNpu> <https:\/\/pbs.twimg.com\/media\/CGjKJcfXIAAYSQN.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGjKJcfXIAAYSQN.jpg",
+                "image_width": 600,
+                "image_height": 600,
+                "image_bytes": 73641,
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/606121044902952960|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433345493.000019"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/nusco|@nusco>: HK-&gt;Singapore. #rdrc2015, here I come. :)",
+                "author_name": "Paolo Perrotta",
+                "author_link": "https:\/\/twitter.com\/nusco\/status\/605798337954979840",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/480099295912153090\/cwwY7hb5_normal.jpeg",
+                "author_subname": "@nusco",
+                "pretext": "<https:\/\/twitter.com\/nusco\/status\/605798337954979840>",
+                "text": "HK-&gt;Singapore. #rdrc2015, here I come. :)",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/606121298851291136|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433345553.000020"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/cedriczhchan|@cedriczhchan>: 4am bus to <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>!",
+                "author_name": "\uc815\ud669",
+                "author_link": "https:\/\/twitter.com\/cedriczhchan\/status\/606188656655622144",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/500662300894707712\/RUS8bgh1_normal.jpeg",
+                "author_subname": "@cedriczhchan",
+                "pretext": "<https:\/\/twitter.com\/cedriczhchan\/status\/606188656655622144>",
+                "text": "4am bus to <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>!",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433361613.150996"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/CloudCityDev|@CloudCityDev>: This week, <https:\/\/twitter.com\/indirect|@indirect> will be speaking at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> in Singapore! If you\u2019re attending the conference, come say hello. :)",
+                "author_name": "CloudCityDevelopment",
+                "author_link": "https:\/\/twitter.com\/CloudCityDev\/status\/606234643554144256",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/544972850637987840\/d6FfKvhd_normal.png",
+                "author_subname": "@CloudCityDev",
+                "pretext": "<https:\/\/twitter.com\/CloudCityDev\/status\/606234643554144256>",
+                "text": "This week, <https:\/\/twitter.com\/indirect|@indirect> will be speaking at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> in Singapore! If you\u2019re attending the conference, come say hello. :)",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433372577.000002"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/jin_|@jin_>: #rdrc2015 attendees, there\u2019s a channel up in the #rubysg Slack- head to <http:\/\/ruby.sg> to get yourself an invite! <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>",
+                "author_name": "jin",
+                "author_link": "https:\/\/twitter.com\/jin_\/status\/606241639644827648",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/604894156100468736\/F9Xpja3B_normal.jpg",
+                "author_subname": "@jin_",
+                "pretext": "<https:\/\/twitter.com\/jin_\/status\/606241639644827648>",
+                "text": "#rdrc2015 attendees, there\u2019s a channel up in the #rubysg Slack- head to <http:\/\/ruby.sg> to get yourself an invite! <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433374245.000003"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/rramsden|@rramsden>: In Singapore for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>",
+                "author_name": "Richard Ramsden",
+                "author_link": "https:\/\/twitter.com\/rramsden\/status\/606249796140044289",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/2995292088\/ace4d0d7eab0a5cc15093397eb3772fc_normal.jpeg",
+                "author_subname": "@rramsden",
+                "pretext": "<https:\/\/twitter.com\/rramsden\/status\/606249796140044289>",
+                "text": "In Singapore for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433376189.489767"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/engineersftw|@engineersftw>: So we have a booth at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>! Come say hi! #engineersftw",
+                "author_name": "Engineers SG",
+                "author_link": "https:\/\/twitter.com\/engineersftw\/status\/606251642363609088",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/530374167581843459\/LhAoHDYO_normal.jpeg",
+                "author_subname": "@engineersftw",
+                "pretext": "<https:\/\/twitter.com\/engineersftw\/status\/606251642363609088>",
+                "text": "So we have a booth at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>! Come say hi! #engineersftw",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433376630.497816"
+    },
+    {
+        "user": "U055SBLSJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U055SBLSJ|anil> has joined the channel",
+        "ts": "1433377413.000002"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>: We are in business! #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGneDITVIAAyA92.jpg>",
+                "author_name": "RedDotRubyConf",
+                "author_link": "https:\/\/twitter.com\/reddotrubyconf\/status\/606259786322092032",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/3261940620\/0a27e2dfbd04ac82ccde7502b9b3d16d_normal.png",
+                "author_subname": "@reddotrubyconf",
+                "pretext": "<https:\/\/twitter.com\/reddotrubyconf\/status\/606259786322092032>",
+                "text": "We are in business! #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGneDITVIAAyA92.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGneDITVIAAyA92.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 33164,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433378579.000002"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/mattdelves|@mattdelves>: To all my friends at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>, have an amazing time. Would be there an instant if I could.",
+                "author_name": "\u30de\u30c3\u30c8",
+                "author_link": "https:\/\/twitter.com\/mattdelves\/status\/606260937109041152",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/378800000086281988\/346fc1796c38f15a456116b428168854_normal.png",
+                "author_subname": "@mattdelves",
+                "pretext": "<https:\/\/twitter.com\/mattdelves\/status\/606260937109041152>",
+                "text": "To all my friends at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>, have an amazing time. Would be there an instant if I could.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433378845.534444"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/anna_fil|@anna_fil>: T minus 30. Excites! #rdrc2015 <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGnftEwUYAAgDix.jpg>",
+                "author_name": "Anna Filippova",
+                "author_link": "https:\/\/twitter.com\/anna_fil\/status\/606261603860807680",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/478222464892157953\/Aovvqooq_normal.jpeg",
+                "author_subname": "@anna_fil",
+                "pretext": "<https:\/\/twitter.com\/anna_fil\/status\/606261603860807680>",
+                "text": "T minus 30. Excites! #rdrc2015 <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGnftEwUYAAgDix.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGnftEwUYAAgDix.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 25252,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433379005.536719"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/yelinaung|@yelinaung>: Totally missed a chance to go to <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> and Singapore this year. Hopefully, next year!",
+                "author_name": "Ye Lin Aung",
+                "author_link": "https:\/\/twitter.com\/yelinaung\/status\/606261622705766400",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/584647710751399936\/vmLat1mr_normal.png",
+                "author_subname": "@yelinaung",
+                "pretext": "<https:\/\/twitter.com\/yelinaung\/status\/606261622705766400>",
+                "text": "Totally missed a chance to go to <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> and Singapore this year. Hopefully, next year!",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433379009.536754"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/sailorhg|@sailorhg>: excited for the first day of <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>! can't wait to meet all of you! (also come say hello for stickers!) <https:\/\/pbs.twimg.com\/media\/CGnjeNuUIAAGAH9.jpg>",
+                "author_name": "sailor mercury",
+                "author_link": "https:\/\/twitter.com\/sailorhg\/status\/606265742908981248",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/529090752660267008\/rZAT4oUh_normal.png",
+                "author_subname": "@sailorhg",
+                "pretext": "<https:\/\/twitter.com\/sailorhg\/status\/606265742908981248>",
+                "text": "excited for the first day of <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>! can't wait to meet all of you! (also come say hello for stickers!) <https:\/\/pbs.twimg.com\/media\/CGnjeNuUIAAGAH9.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGnjeNuUIAAGAH9.jpg",
+                "image_width": 599,
+                "image_height": 399,
+                "image_bytes": 27517,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433379991.000002"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: <https:\/\/twitter.com\/sailorhg|@sailorhg> How do we find you? :D <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>",
+                "author_name": "Nathania Wong",
+                "author_link": "https:\/\/twitter.com\/NathaniaWong\/status\/606270383281422337",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594158757346586625\/JMeBbqR5_normal.jpg",
+                "author_subname": "@NathaniaWong",
+                "pretext": "<https:\/\/twitter.com\/NathaniaWong\/status\/606270383281422337>",
+                "text": "<https:\/\/twitter.com\/sailorhg|@sailorhg> How do we find you? :D <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433381098.000003"
+    },
+    {
+        "user": "U046SHMDF",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U046SHMDF|lowjoel> has joined the channel",
+        "ts": "1433381516.000004"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/igaiga555|@igaiga555>: .<https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> has just started!!",
+                "author_name": "igaiga",
+                "author_link": "https:\/\/twitter.com\/igaiga555\/status\/606272269032169473",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/378800000065478361\/f0584a649326ef2e5f81bd0b96903525_normal.png",
+                "author_subname": "@igaiga555",
+                "pretext": "<https:\/\/twitter.com\/igaiga555\/status\/606272269032169473>",
+                "text": ".<https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> has just started!!",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433381547.000005"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/vaidehijoshi|@vaidehijoshi>: 'Tis time to get thy Ruby on! <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGnp0_YUQAANcgQ.jpg>",
+                "author_name": "Vaidehi Joshi",
+                "author_link": "https:\/\/twitter.com\/vaidehijoshi\/status\/606272810604855296",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/587461758803054593\/X0s8l__S_normal.png",
+                "author_subname": "@vaidehijoshi",
+                "pretext": "<https:\/\/twitter.com\/vaidehijoshi\/status\/606272810604855296>",
+                "text": "'Tis time to get thy Ruby on! <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGnp0_YUQAANcgQ.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGnp0_YUQAANcgQ.jpg",
+                "image_width": 600,
+                "image_height": 600,
+                "image_bytes": 28274,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433381677.000006"
+    },
+    {
+        "user": "U055T6WGJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U055T6WGJ|serf> has joined the channel",
+        "ts": "1433381701.000007"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: We have our #ruby basic needs sorted! <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #tech <https:\/\/pbs.twimg.com\/media\/CGnqId7UIAA3XNm.jpg>",
+                "author_name": "Nathania Wong",
+                "author_link": "https:\/\/twitter.com\/NathaniaWong\/status\/606273113148395520",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594158757346586625\/JMeBbqR5_normal.jpg",
+                "author_subname": "@NathaniaWong",
+                "pretext": "<https:\/\/twitter.com\/NathaniaWong\/status\/606273113148395520>",
+                "text": "We have our #ruby basic needs sorted! <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #tech <https:\/\/pbs.twimg.com\/media\/CGnqId7UIAA3XNm.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGnqId7UIAA3XNm.jpg",
+                "image_width": 599,
+                "image_height": 569,
+                "image_bytes": 33010,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433381749.000008"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/mob_intellgnce|@mob_intellgnce>: RT <https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: We have our #ruby basic needs sorted! <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #tech <https:\/\/pbs.twimg.com\/media\/CGnqId7UIAA3XNm.jpg>",
+                "author_name": "mobile intelligence",
+                "author_link": "https:\/\/twitter.com\/mob_intellgnce\/status\/606273519308017665",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/592773350952415232\/O5qMYklP_normal.jpg",
+                "author_subname": "@mob_intellgnce",
+                "pretext": "<https:\/\/twitter.com\/mob_intellgnce\/status\/606273519308017665>",
+                "text": "RT <https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: We have our #ruby basic needs sorted! <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #tech <https:\/\/pbs.twimg.com\/media\/CGnqId7UIAA3XNm.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGnqId7UIAA3XNm.jpg",
+                "image_width": 599,
+                "image_height": 569,
+                "image_bytes": 33010,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433381845.000009"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/casey_lang|@casey_lang>: Roy got stickers, which I think makes <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> officially started <https:\/\/pbs.twimg.com\/media\/CGnqualUkAA1jxa.jpg>",
+                "author_name": "Casey Lang",
+                "author_link": "https:\/\/twitter.com\/casey_lang\/status\/606273756432973825",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/425508935311716353\/1aHiZMUr_normal.jpeg",
+                "author_subname": "@casey_lang",
+                "pretext": "<https:\/\/twitter.com\/casey_lang\/status\/606273756432973825>",
+                "text": "Roy got stickers, which I think makes <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> officially started <https:\/\/pbs.twimg.com\/media\/CGnqualUkAA1jxa.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGnqualUkAA1jxa.jpg",
+                "image_width": 599,
+                "image_height": 337,
+                "image_bytes": 25623,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433381902.000010"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/reydisutandang|@reydisutandang>: yeay <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz>!! <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGnr1cyUIAEur2v.jpg>",
+                "author_name": "Reydi Sutandang",
+                "author_link": "https:\/\/twitter.com\/reydisutandang\/status\/606274942884134915",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/604938261111447552\/c13EzNHh_normal.jpg",
+                "author_subname": "@reydisutandang",
+                "pretext": "<https:\/\/twitter.com\/reydisutandang\/status\/606274942884134915>",
+                "text": "yeay <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz>!! <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGnr1cyUIAEur2v.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGnr1cyUIAEur2v.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 19043,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433382185.000011"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/anna_fil|@anna_fil>: Keynote from <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> on Superdry Ruby ;) #rdrc2015 <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGnsERFUIAABFAJ.jpg>",
+                "author_name": "Anna Filippova",
+                "author_link": "https:\/\/twitter.com\/anna_fil\/status\/606275196090064897",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/478222464892157953\/Aovvqooq_normal.jpeg",
+                "author_subname": "@anna_fil",
+                "pretext": "<https:\/\/twitter.com\/anna_fil\/status\/606275196090064897>",
+                "text": "Keynote from <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> on Superdry Ruby ;) #rdrc2015 <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGnsERFUIAABFAJ.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433382275.000012"
+    },
+    {
+        "user": "U055TAKF0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U055TAKF0|josh> has joined the channel",
+        "ts": "1433382290.000013"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/bkgblogerxvi|@bkgblogerxvi>: <https:\/\/twitter.com\/anna_fil|@anna_fil> <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> Awesum :) <http:\/\/tinyurl.com\/ngfmqtv>",
+                "author_name": "BKGJewelry",
+                "author_link": "https:\/\/twitter.com\/bkgblogerxvi\/status\/606275890104827904",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/574994520472846336\/8fcAbV5T_normal.jpeg",
+                "author_subname": "@bkgblogerxvi",
+                "pretext": "<https:\/\/twitter.com\/bkgblogerxvi\/status\/606275890104827904>",
+                "text": "<https:\/\/twitter.com\/anna_fil|@anna_fil> <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> Awesum :) <http:\/\/tinyurl.com\/ngfmqtv>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433382411.000014"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/anna_fil|@anna_fil>: TIL <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> designed Ruby on a paper notebook - paper prototyping!!  #rdrc2015 <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>",
+                "author_name": "Anna Filippova",
+                "author_link": "https:\/\/twitter.com\/anna_fil\/status\/606276914169278464",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/478222464892157953\/Aovvqooq_normal.jpeg",
+                "author_subname": "@anna_fil",
+                "pretext": "<https:\/\/twitter.com\/anna_fil\/status\/606276914169278464>",
+                "text": "TIL <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> designed Ruby on a paper notebook - paper prototyping!!  #rdrc2015 <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433382655.000015"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: .<https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> \"We are programmers, we must be lazy, b\/c we are masters of computers...Not slaves\" <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGnwi3_UgAEvLQn.jpg>",
+                "author_name": "Nathania Wong",
+                "author_link": "https:\/\/twitter.com\/NathaniaWong\/status\/606280120521793536",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594158757346586625\/JMeBbqR5_normal.jpg",
+                "author_subname": "@NathaniaWong",
+                "pretext": "<https:\/\/twitter.com\/NathaniaWong\/status\/606280120521793536>",
+                "text": ".<https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> \"We are programmers, we must be lazy, b\/c we are masters of computers...Not slaves\" <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGnwi3_UgAEvLQn.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433383449.000016"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: .<https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> \"We are programmers, we must be lazy, b\/c we are masters of computers...Not slaves\" <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGnxA_UVAAER4ah.jpg>",
+                "author_name": "Nathania Wong",
+                "author_link": "https:\/\/twitter.com\/NathaniaWong\/status\/606280634516930560",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594158757346586625\/JMeBbqR5_normal.jpg",
+                "author_subname": "@NathaniaWong",
+                "pretext": "<https:\/\/twitter.com\/NathaniaWong\/status\/606280634516930560>",
+                "text": ".<https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> \"We are programmers, we must be lazy, b\/c we are masters of computers...Not slaves\" <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGnxA_UVAAER4ah.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGnxA_UVAAER4ah.jpg",
+                "image_width": 600,
+                "image_height": 512,
+                "image_bytes": 27323,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433383542.000017"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/anna_fil|@anna_fil>: If it looks like a duck and sounds like a duck.... <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> on duck typing #rdrc2015 <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGnxaaeU8AARZce.jpg>",
+                "author_name": "Anna Filippova",
+                "author_link": "https:\/\/twitter.com\/anna_fil\/status\/606281075602513920",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/478222464892157953\/Aovvqooq_normal.jpeg",
+                "author_subname": "@anna_fil",
+                "pretext": "<https:\/\/twitter.com\/anna_fil\/status\/606281075602513920>",
+                "text": "If it looks like a duck and sounds like a duck.... <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> on duck typing #rdrc2015 <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGnxaaeU8AARZce.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGnxaaeU8AARZce.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 23228,
+                "id": 1
+            },
+            {
+                "text": "<https:\/\/pbs.twimg.com\/media\/CGnxaeMUYAEeQU4.jpg>",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGnxaeMUYAEeQU4.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 21948
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433383647.000018"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/anna_fil|@anna_fil>: Three possible paths towards Ruby concurrency, including <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> new language streem #rdrc2015 <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>",
+                "author_name": "Anna Filippova",
+                "author_link": "https:\/\/twitter.com\/anna_fil\/status\/606285954584674305",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/478222464892157953\/Aovvqooq_normal.jpeg",
+                "author_subname": "@anna_fil",
+                "pretext": "<https:\/\/twitter.com\/anna_fil\/status\/606285954584674305>",
+                "text": "Three possible paths towards Ruby concurrency, including <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> new language streem #rdrc2015 <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433384810.000019"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: \"I don't like testing...Because it's redundant!\" <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> :scream::hushed::dizzy_face: #rdrc2015",
+                "author_name": "Nathania Wong",
+                "author_link": "https:\/\/twitter.com\/NathaniaWong\/status\/606287458133671936",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594158757346586625\/JMeBbqR5_normal.jpg",
+                "author_subname": "@NathaniaWong",
+                "pretext": "<https:\/\/twitter.com\/NathaniaWong\/status\/606287458133671936>",
+                "text": "\"I don't like testing...Because it's redundant!\" <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> :scream::hushed::dizzy_face: #rdrc2015",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433385169.000020"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/jsconfasia|@jsconfasia>: Good success <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> :)",
+                "author_name": "JSConf.Asia",
+                "author_link": "https:\/\/twitter.com\/jsconfasia\/status\/606289461727535104",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/597955046307811328\/AkTIG4Ha_normal.png",
+                "author_subname": "@jsconfasia",
+                "pretext": "<https:\/\/twitter.com\/jsconfasia\/status\/606289461727535104>",
+                "text": "Good success <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> :)",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433385646.000021"
+    },
+    {
+        "type": "message",
+        "user": "U03TFF94K",
+        "text": "Hmm <#C05243LGR|rdrc2015> tagged tweets doesn't appear here?",
+        "ts": "1433386009.000022"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>: Keynote by <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz>. Thank you for Ruby! :heart_eyes: <https:\/\/pbs.twimg.com\/media\/CGn6nFYU8AEZJqx.jpg>",
+                "author_name": "RedDotRubyConf",
+                "author_link": "https:\/\/twitter.com\/reddotrubyconf\/status\/606291185993277440",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/3261940620\/0a27e2dfbd04ac82ccde7502b9b3d16d_normal.png",
+                "author_subname": "@reddotrubyconf",
+                "pretext": "<https:\/\/twitter.com\/reddotrubyconf\/status\/606291185993277440>",
+                "text": "Keynote by <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz>. Thank you for Ruby! :heart_eyes: <https:\/\/pbs.twimg.com\/media\/CGn6nFYU8AEZJqx.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGn6nFYU8AEZJqx.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 26496,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433386057.000023"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/tenderlove|@tenderlove>: Taking selfies at #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGnv4KxUAAAtSO9.jpg>",
+                "author_name": "Aaron Patterson",
+                "author_link": "https:\/\/twitter.com\/tenderlove\/status\/606279373197443073",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/378800000325798111\/ca48276f8ebbbbac9c6ce83aac3c8548_normal.jpeg",
+                "author_subname": "@tenderlove",
+                "pretext": "<https:\/\/twitter.com\/tenderlove\/status\/606279373197443073>",
+                "text": "Taking selfies at #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGnv4KxUAAAtSO9.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGnv4KxUAAAtSO9.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 59805,
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/606292021586722817|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433386267.000024"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>: We have <https:\/\/twitter.com\/indirect|@indirect> on stage now! <https:\/\/pbs.twimg.com\/media\/CGn7h68UgAE3Yyv.jpg>",
+                "author_name": "RedDotRubyConf",
+                "author_link": "https:\/\/twitter.com\/reddotrubyconf\/status\/606292195746799617",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/3261940620\/0a27e2dfbd04ac82ccde7502b9b3d16d_normal.png",
+                "author_subname": "@reddotrubyconf",
+                "pretext": "<https:\/\/twitter.com\/reddotrubyconf\/status\/606292195746799617>",
+                "text": "We have <https:\/\/twitter.com\/indirect|@indirect> on stage now! <https:\/\/pbs.twimg.com\/media\/CGn7h68UgAE3Yyv.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGn7h68UgAE3Yyv.jpg",
+                "image_width": 600,
+                "image_height": 800,
+                "image_bytes": 37560,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433386298.000025"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: \"I don't like testing...Because it's redundant!\" <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> :scream::hushed::dizzy_face: #rdrc2015",
+                "author_name": "Nathania Wong",
+                "author_link": "https:\/\/twitter.com\/NathaniaWong\/status\/606287458133671936",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594158757346586625\/JMeBbqR5_normal.jpg",
+                "author_subname": "@NathaniaWong",
+                "pretext": "<https:\/\/twitter.com\/NathaniaWong\/status\/606287458133671936>",
+                "text": "\"I don't like testing...Because it's redundant!\" <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> :scream::hushed::dizzy_face: #rdrc2015",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/606293910986432512|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433386707.000026"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/tgx_world|@tgx_world>: TIL: <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> is bringing Concurrency to Ruby. #rdrc2015",
+                "author_name": "Guo Xiang Tan",
+                "author_link": "https:\/\/twitter.com\/tgx_world\/status\/606285432549015553",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/552648999623094274\/Wdu-HD_U_normal.jpeg",
+                "author_subname": "@tgx_world",
+                "pretext": "<https:\/\/twitter.com\/tgx_world\/status\/606285432549015553>",
+                "text": "TIL: <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> is bringing Concurrency to Ruby. #rdrc2015",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/606293947082620928|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433386716.000027"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/keikun17|@keikun17>: <https:\/\/twitter.com\/NathaniaWong|@NathaniaWong> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> so brave",
+                "author_name": "Buddy Magsipoc",
+                "author_link": "https:\/\/twitter.com\/keikun17\/status\/606294376457699329",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/551279692834406400\/ywxp447m_normal.jpeg",
+                "author_subname": "@keikun17",
+                "pretext": "<https:\/\/twitter.com\/keikun17\/status\/606294376457699329>",
+                "text": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> so brave",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433386818.000028"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/coderhs|@coderhs>: <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> Looking forward for the watching the video on <https:\/\/twitter.com\/confreaks|@confreaks>",
+                "author_name": "Harisankar P S(HsPS)",
+                "author_link": "https:\/\/twitter.com\/coderhs\/status\/606294606104260608",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/586395217839853570\/sjnOnIS7_normal.jpg",
+                "author_subname": "@coderhs",
+                "pretext": "<https:\/\/twitter.com\/coderhs\/status\/606294606104260608>",
+                "text": "<https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> Looking forward for the watching the video on <https:\/\/twitter.com\/confreaks|@confreaks>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433386873.000029"
+    },
+    {
+        "user": "U055UAHB6",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U055UAHB6|markfu> has joined the channel",
+        "ts": "1433387574.000030"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/confreaks|@confreaks>: We are in lovely Singapore recording #rdrc2015 - <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> is opening keynote. Videos in 2-3 weeks at <http:\/\/confreaks.tv>",
+                "author_name": "Confreaks, LLC",
+                "author_link": "https:\/\/twitter.com\/confreaks\/status\/606270208957767680",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/508193987417485312\/4FaFrBga_normal.png",
+                "author_subname": "@confreaks",
+                "pretext": "<https:\/\/twitter.com\/confreaks\/status\/606270208957767680>",
+                "text": "We are in lovely Singapore recording #rdrc2015 - <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> is opening keynote. Videos in 2-3 weeks at <http:\/\/confreaks.tv>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/606297580994097152|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433387582.000031"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: \"Ruby should learn from Rails on security issues\" <https:\/\/twitter.com\/indirect|@indirect> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> A breach can close your biz in a day <https:\/\/pbs.twimg.com\/media\/CGoAWiFU8AE_WJY.jpg>",
+                "author_name": "Nathania Wong",
+                "author_link": "https:\/\/twitter.com\/NathaniaWong\/status\/606297498047545344",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594158757346586625\/JMeBbqR5_normal.jpg",
+                "author_subname": "@NathaniaWong",
+                "pretext": "<https:\/\/twitter.com\/NathaniaWong\/status\/606297498047545344>",
+                "text": "\"Ruby should learn from Rails on security issues\" <https:\/\/twitter.com\/indirect|@indirect> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> A breach can close your biz in a day <https:\/\/pbs.twimg.com\/media\/CGoAWiFU8AE_WJY.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433387592.000032"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/engineersftw|@engineersftw>: At <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>. Thanks to <https:\/\/twitter.com\/kopisam|@kopisam> for the booth! #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGoFnYxUIAIMM_6.jpg>",
+                "author_name": "Engineers SG",
+                "author_link": "https:\/\/twitter.com\/engineersftw\/status\/606303285612404736",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/530374167581843459\/LhAoHDYO_normal.jpeg",
+                "author_subname": "@engineersftw",
+                "pretext": "<https:\/\/twitter.com\/engineersftw\/status\/606303285612404736>",
+                "text": "At <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>. Thanks to <https:\/\/twitter.com\/kopisam|@kopisam> for the booth! #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGoFnYxUIAIMM_6.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGoFnYxUIAIMM_6.jpg",
+                "image_width": 600,
+                "image_height": 800,
+                "image_bytes": 52498,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433388943.000033"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>: .<https:\/\/twitter.com\/sausheong|@sausheong> up on stage talking about making robots! #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGoK_BAUQAEBE_x.jpg>",
+                "author_name": "RedDotRubyConf",
+                "author_link": "https:\/\/twitter.com\/reddotrubyconf\/status\/606309184296976385",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/3261940620\/0a27e2dfbd04ac82ccde7502b9b3d16d_normal.png",
+                "author_subname": "@reddotrubyconf",
+                "pretext": "<https:\/\/twitter.com\/reddotrubyconf\/status\/606309184296976385>",
+                "text": ".<https:\/\/twitter.com\/sausheong|@sausheong> up on stage talking about making robots! #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGoK_BAUQAEBE_x.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGoK_BAUQAEBE_x.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 24788,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433390349.000034"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>: .<https:\/\/twitter.com\/sausheong|@sausheong> and <https:\/\/twitter.com\/1991bill|@1991bill> talking about Robots and how <https:\/\/twitter.com\/jimweirich|@jimweirich> inspired them to do this talk. #SmartNation <https:\/\/pbs.twimg.com\/media\/CGoL-6EVIAIu7Wf.jpg>",
+                "author_name": "RedDotRubyConf",
+                "author_link": "https:\/\/twitter.com\/reddotrubyconf\/status\/606310304352342016",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/3261940620\/0a27e2dfbd04ac82ccde7502b9b3d16d_normal.png",
+                "author_subname": "@reddotrubyconf",
+                "pretext": "<https:\/\/twitter.com\/reddotrubyconf\/status\/606310304352342016>",
+                "text": ".<https:\/\/twitter.com\/sausheong|@sausheong> and <https:\/\/twitter.com\/1991bill|@1991bill> talking about Robots and how <https:\/\/twitter.com\/jimweirich|@jimweirich> inspired them to do this talk. #SmartNation <https:\/\/pbs.twimg.com\/media\/CGoL-6EVIAIu7Wf.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGoL-6EVIAIu7Wf.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 28377,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433390631.000035"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/tenderlove|@tenderlove>: More #rdrc2015 selfies <https:\/\/pbs.twimg.com\/media\/CGoJB2zUkAABy_Z.jpg>",
+                "author_name": "Aaron Patterson",
+                "author_link": "https:\/\/twitter.com\/tenderlove\/status\/606307027472637954",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/378800000325798111\/ca48276f8ebbbbac9c6ce83aac3c8548_normal.jpeg",
+                "author_subname": "@tenderlove",
+                "pretext": "<https:\/\/twitter.com\/tenderlove\/status\/606307027472637954>",
+                "text": "More #rdrc2015 selfies <https:\/\/pbs.twimg.com\/media\/CGoJB2zUkAABy_Z.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGoJB2zUkAABy_Z.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 37001,
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/606312330427691008|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433391099.000036"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>: Ruby powered robot! Built by <https:\/\/twitter.com\/sausheong|@sausheong> and <https:\/\/twitter.com\/1991bill|@1991bill> from <https:\/\/twitter.com\/PayPal|@PayPal> #rdrc2015 <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/606312273339019264\/pu\/img\/c3DS6AykwIA90jUA.jpg>",
+                "author_name": "RedDotRubyConf",
+                "author_link": "https:\/\/twitter.com\/reddotrubyconf\/status\/606312509503475715",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/3261940620\/0a27e2dfbd04ac82ccde7502b9b3d16d_normal.png",
+                "author_subname": "@reddotrubyconf",
+                "pretext": "<https:\/\/twitter.com\/reddotrubyconf\/status\/606312509503475715>",
+                "text": "Ruby powered robot! Built by <https:\/\/twitter.com\/sausheong|@sausheong> and <https:\/\/twitter.com\/1991bill|@1991bill> from <https:\/\/twitter.com\/PayPal|@PayPal> #rdrc2015 <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/606312273339019264\/pu\/img\/c3DS6AykwIA90jUA.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433391142.000037"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/jasonyeojs|@jasonyeojs>: :grin::thumbsup::thumbsup: wefie with <https:\/\/twitter.com\/tenderlove|@tenderlove> and <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #rdrc2015",
+                "author_name": "Jason Yeo",
+                "author_link": "https:\/\/twitter.com\/jasonyeojs\/status\/606313491775889409",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/378800000660607656\/41fb1b499b9f5158076102ee0733ba45_normal.jpeg",
+                "author_subname": "@jasonyeojs",
+                "pretext": "<https:\/\/twitter.com\/jasonyeojs\/status\/606313491775889409>",
+                "text": ":grin::thumbsup::thumbsup: wefie with <https:\/\/twitter.com\/tenderlove|@tenderlove> and <https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz> at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #rdrc2015",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433391376.000038"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/sailorhg|@sailorhg>: learning about insect locomotion with <https:\/\/twitter.com\/sausheong|@sausheong>'s talk at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>. love when conf talks teach me something unexpected! :ant::beetle::bug: #rdrc15",
+                "author_name": "sailor mercury",
+                "author_link": "https:\/\/twitter.com\/sailorhg\/status\/606314051992322048",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/529090752660267008\/rZAT4oUh_normal.png",
+                "author_subname": "@sailorhg",
+                "pretext": "<https:\/\/twitter.com\/sailorhg\/status\/606314051992322048>",
+                "text": "learning about insect locomotion with <https:\/\/twitter.com\/sausheong|@sausheong>'s talk at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>. love when conf talks teach me something unexpected! :ant::beetle::bug: #rdrc15",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433391509.000039"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>: It's alive! <https:\/\/twitter.com\/sausheong|@sausheong> <https:\/\/twitter.com\/1991bill|@1991bill> <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/606315495051042816\/pu\/img\/Ba1vA9FnFK3jJsUB.jpg>",
+                "author_name": "RedDotRubyConf",
+                "author_link": "https:\/\/twitter.com\/reddotrubyconf\/status\/606315921141956608",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/3261940620\/0a27e2dfbd04ac82ccde7502b9b3d16d_normal.png",
+                "author_subname": "@reddotrubyconf",
+                "pretext": "<https:\/\/twitter.com\/reddotrubyconf\/status\/606315921141956608>",
+                "text": "It's alive! <https:\/\/twitter.com\/sausheong|@sausheong> <https:\/\/twitter.com\/1991bill|@1991bill> <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/606315495051042816\/pu\/img\/Ba1vA9FnFK3jJsUB.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433391955.000040"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/anna_fil|@anna_fil>: It walks!!! <https:\/\/twitter.com\/sausheong|@sausheong> and <https:\/\/twitter.com\/1991bill|@1991bill> Ruby powered Robot at #rdrc2015 <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/606316190311411712\/pu\/img\/JIxyYkIsZnm04G84.jpg>",
+                "author_name": "Anna Filippova",
+                "author_link": "https:\/\/twitter.com\/anna_fil\/status\/606316454820995072",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/478222464892157953\/Aovvqooq_normal.jpeg",
+                "author_subname": "@anna_fil",
+                "pretext": "<https:\/\/twitter.com\/anna_fil\/status\/606316454820995072>",
+                "text": "It walks!!! <https:\/\/twitter.com\/sausheong|@sausheong> and <https:\/\/twitter.com\/1991bill|@1991bill> Ruby powered Robot at #rdrc2015 <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/606316190311411712\/pu\/img\/JIxyYkIsZnm04G84.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433392082.000041"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/jin_|@jin_>: .<https:\/\/twitter.com\/_cha1tanya|@_cha1tanya> on React.js! #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGoRj5dUAAACQhb.jpg>",
+                "author_name": "jin",
+                "author_link": "https:\/\/twitter.com\/jin_\/status\/606316413788102658",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/604894156100468736\/F9Xpja3B_normal.jpg",
+                "author_subname": "@jin_",
+                "pretext": "<https:\/\/twitter.com\/jin_\/status\/606316413788102658>",
+                "text": ".<https:\/\/twitter.com\/_cha1tanya|@_cha1tanya> on React.js! #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGoRj5dUAAACQhb.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGoRj5dUAAACQhb.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 21390,
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/606316629794750465|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433392124.000042"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/anna_fil|@anna_fil>: It smells bad but it's awesome! <https:\/\/twitter.com\/_cha1tanya|@_cha1tanya> on React with Rails at #rdrc2015 <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGoTBTvVIAAL6Mm.jpg>",
+                "author_name": "Anna Filippova",
+                "author_link": "https:\/\/twitter.com\/anna_fil\/status\/606318027466883072",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/478222464892157953\/Aovvqooq_normal.jpeg",
+                "author_subname": "@anna_fil",
+                "pretext": "<https:\/\/twitter.com\/anna_fil\/status\/606318027466883072>",
+                "text": "It smells bad but it's awesome! <https:\/\/twitter.com\/_cha1tanya|@_cha1tanya> on React with Rails at #rdrc2015 <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGoTBTvVIAAL6Mm.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGoTBTvVIAAL6Mm.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 22079,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433392457.000043"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/3070884790\/0f324e3c28bba73c8252437b6aa77914_normal.png",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@webuildsg : RT @tenderlove: More <#C05243LGR|rdrc2015> selfies <http:\/\/t.co\/t0w8pKVKKw> (via Twitter <http:\/\/twitter.com\/webuildsg\/status\/606317407246745600>)",
+                "fallback": "@webuildsg : RT @tenderlove: More <#C05243LGR|rdrc2015> selfies <http:\/\/t.co\/t0w8pKVKKw> (via Twitter <http:\/\/twitter.com\/webuildsg\/status\/606317407246745600>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433392662.000044"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/483161443051663360\/a9lX8oMh_normal.png",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@yinquanteo : RT @JuanitoFatas: Fundamental human needs <#C05243LGR|rdrc2015> <http:\/\/t.co\/WesgMd18cC> (via Twitter <http:\/\/twitter.com\/yinquanteo\/status\/606317615145848832>)",
+                "fallback": "@yinquanteo : RT @JuanitoFatas: Fundamental human needs <#C05243LGR|rdrc2015> <http:\/\/t.co\/WesgMd18cC> (via Twitter <http:\/\/twitter.com\/yinquanteo\/status\/606317615145848832>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433392667.000045"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/867101438\/n647428650_5962_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@freelyAgeha : @freelyAgeha with @yukihiro_matz @blueiur #reddotrubyconf <http:\/\/t.co\/pH2oV2LlwX> (via Twitter <http:\/\/twitter.com\/freelyAgeha\/status\/606317899385421824>)",
+                "fallback": "@freelyAgeha : @freelyAgeha with @yukihiro_matz @blueiur #reddotrubyconf <http:\/\/t.co\/pH2oV2LlwX> (via Twitter <http:\/\/twitter.com\/freelyAgeha\/status\/606317899385421824>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433392668.000046"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/604894156100468736\/F9Xpja3B_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@jin_ : Resonating with @_cha1tanya on React.js, especially with the JSX part. It did feel dirty, but's absolute great when grokked. <#C05243LGR|rdrc2015> (via Twitter <http:\/\/twitter.com\/jin_\/status\/606318305784164352>)",
+                "fallback": "@jin_ : Resonating with @_cha1tanya on React.js, especially with the JSX part. It did feel dirty, but's absolute great when grokked. <#C05243LGR|rdrc2015> (via Twitter <http:\/\/twitter.com\/jin_\/status\/606318305784164352>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433392668.000047"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/552648999623094274\/Wdu-HD_U_normal.jpeg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@tgx_world : RT @JuanitoFatas: Fundamental human needs <#C05243LGR|rdrc2015> <http:\/\/t.co\/WesgMd18cC> (via Twitter <http:\/\/twitter.com\/tgx_world\/status\/606318538110803968>)",
+                "fallback": "@tgx_world : RT @JuanitoFatas: Fundamental human needs <#C05243LGR|rdrc2015> <http:\/\/t.co\/WesgMd18cC> (via Twitter <http:\/\/twitter.com\/tgx_world\/status\/606318538110803968>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433392669.000048"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/35136352\/n36901864_34577774_5338_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@matthewrudy : .@yukihiro_matz might add Rubocop style warnings to Ruby 3!? <#C05243LGR|rdrc2015> <http:\/\/t.co\/hhiYgcHTNf> (via Twitter <http:\/\/twitter.com\/matthewrudy\/status\/606319225204924416>)",
+                "fallback": "@matthewrudy : .@yukihiro_matz might add Rubocop style warnings to Ruby 3!? <#C05243LGR|rdrc2015> <http:\/\/t.co\/hhiYgcHTNf> (via Twitter <http:\/\/twitter.com\/matthewrudy\/status\/606319225204924416>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433392865.000049"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/574994520472846336\/8fcAbV5T_normal.jpeg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@bkgblogerxvi : RT @matthewrudy: .@yukihiro_matz might add Rubocop style warnings to Ruby 3!? <#C05243LGR|rdrc2015> <http:\/\/t.co\/hhiYgcHTNf> (via Twitter <http:\/\/twitter.com\/bkgblogerxvi\/status\/606321013698068480>)",
+                "fallback": "@bkgblogerxvi : RT @matthewrudy: .@yukihiro_matz might add Rubocop style warnings to Ruby 3!? <#C05243LGR|rdrc2015> <http:\/\/t.co\/hhiYgcHTNf> (via Twitter <http:\/\/twitter.com\/bkgblogerxvi\/status\/606321013698068480>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433393374.000050"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/459499652228714497\/EiSPykkq_normal.png",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@lrz : RT @tenderlove: Tried to take a selfie with @yukihiro_matz, but I think @lrz photo bombed me. #reddotrubyconf <http:\/\/t.co\/n2v1ukA6BZ> (via Twitter <http:\/\/twitter.com\/lrz\/status\/606321722376077312>)",
+                "fallback": "@lrz : RT @tenderlove: Tried to take a selfie with @yukihiro_matz, but I think @lrz photo bombed me. #reddotrubyconf <http:\/\/t.co\/n2v1ukA6BZ> (via Twitter <http:\/\/twitter.com\/lrz\/status\/606321722376077312>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433393375.000051"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/594042543794323456\/HgB_UMYo_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "<@U056F5LHH|jimmynguyc> : The sporknife is the best thing ever made ... oh and there's the $40 @digitalocean credit :D <#C05243LGR|rdrc2015> #goodybag <http:\/\/t.co\/MxmyIuCEuV> (via Twitter <http:\/\/twitter.com\/jimmynguyc\/status\/606321724372623362>)",
+                "fallback": "<@U056F5LHH|jimmynguyc> : The sporknife is the best thing ever made ... oh and there's the $40 @digitalocean credit :D <#C05243LGR|rdrc2015> #goodybag <http:\/\/t.co\/MxmyIuCEuV> (via Twitter <http:\/\/twitter.com\/jimmynguyc\/status\/606321724372623362>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433393376.000052"
+    },
+    {
+        "user": "U055V6QG0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U055V6QG0|casey.lang> has joined the channel",
+        "ts": "1433393527.000053"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/1641901611\/gravatar2_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@sakuro : RT @tenderlove: Tried to take a selfie with @yukihiro_matz, but I think @lrz photo bombed me. #reddotrubyconf <http:\/\/t.co\/n2v1ukA6BZ> (via Twitter <http:\/\/twitter.com\/sakuro\/status\/606322853902876673>)",
+                "fallback": "@sakuro : RT @tenderlove: Tried to take a selfie with @yukihiro_matz, but I think @lrz photo bombed me. #reddotrubyconf <http:\/\/t.co\/n2v1ukA6BZ> (via Twitter <http:\/\/twitter.com\/sakuro\/status\/606322853902876673>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433393745.000054"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/594158757346586625\/JMeBbqR5_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@NathaniaWong : RT @jin_: Resonating with @_cha1tanya on React.js, especially with the JSX part. It did feel dirty, but's absolute great when grokked. <#C05243LGR|rdrc2015> (via Twitter <http:\/\/twitter.com\/NathaniaWong\/status\/606323025747677186>)",
+                "fallback": "@NathaniaWong : RT @jin_: Resonating with @_cha1tanya on React.js, especially with the JSX part. It did feel dirty, but's absolute great when grokked. <#C05243LGR|rdrc2015> (via Twitter <http:\/\/twitter.com\/NathaniaWong\/status\/606323025747677186>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433393746.000055"
+    },
+    {
+        "type": "message",
+        "user": "U055V6QG0",
+        "text": "Does anyone have information on the bus ride back to Big Hotel tonight? ",
+        "ts": "1433394069.000056"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/1299892642\/geezer_normal.gif",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@Qeruiem : RT @JuanitoFatas: Fundamental human needs <#C05243LGR|rdrc2015> <http:\/\/t.co\/WesgMd18cC> (via Twitter <http:\/\/twitter.com\/Qeruiem\/status\/606324176824221696>)",
+                "fallback": "@Qeruiem : RT @JuanitoFatas: Fundamental human needs <#C05243LGR|rdrc2015> <http:\/\/t.co\/WesgMd18cC> (via Twitter <http:\/\/twitter.com\/Qeruiem\/status\/606324176824221696>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433394097.000057"
+    },
+    {
+        "type": "message",
+        "user": "U03T4LMQ2",
+        "text": "<@U055V6QG0> fyi you can use the google map to check for it, but i think the best way to get there is by train",
+        "ts": "1433394261.000058"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/596595748071985152\/pcvFsSIm_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@AndreCedik : RT <@U052YSBUH|nusco>: Update Maslow hierarchy of needs <http:\/\/t.co\/ijL2fiEg4W> (via @JuanitoFatas at <#C05243LGR|rdrc2015>) (via Twitter <http:\/\/twitter.com\/AndreCedik\/status\/606327185817878528>)",
+                "fallback": "@AndreCedik : RT <@U052YSBUH|nusco>: Update Maslow hierarchy of needs <http:\/\/t.co\/ijL2fiEg4W> (via @JuanitoFatas at <#C05243LGR|rdrc2015>) (via Twitter <http:\/\/twitter.com\/AndreCedik\/status\/606327185817878528>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433394801.000059"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_5_normal.png",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@veelenga : RT @tenderlove: Tried to take a selfie with @yukihiro_matz, but I think @lrz photo bombed me. #reddotrubyconf <http:\/\/t.co\/n2v1ukA6BZ> (via Twitter <http:\/\/twitter.com\/veelenga\/status\/606328234964361216>)",
+                "fallback": "@veelenga : RT @tenderlove: Tried to take a selfie with @yukihiro_matz, but I think @lrz photo bombed me. #reddotrubyconf <http:\/\/t.co\/n2v1ukA6BZ> (via Twitter <http:\/\/twitter.com\/veelenga\/status\/606328234964361216>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433394988.000060"
+    },
+    {
+        "type": "message",
+        "user": "U055V6QG0",
+        "text": "Thanks <@U03T4LMQ2> for the information but I was asking about the bus which the conference provided. There was one this morning that delivered us to the venue and I'm wondering if there is another for tonight's return trip ",
+        "ts": "1433395700.000061"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/753582245\/mengs_shot_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@palevsk : <#C05243LGR|rdrc2015> A propos of Matz's talk:  <http:\/\/t.co\/XHC8rzD1rh> (via Twitter <http:\/\/twitter.com\/palevsk\/status\/606330781393285120>)",
+                "fallback": "@palevsk : <#C05243LGR|rdrc2015> A propos of Matz's talk:  <http:\/\/t.co\/XHC8rzD1rh> (via Twitter <http:\/\/twitter.com\/palevsk\/status\/606330781393285120>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433395866.000062"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/540156334939721728\/Z0QaxlGr_normal.jpeg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@Ferdy_Rosario : RT @crigor: Great to see @engineyard support @rubytogether <#C05243LGR|rdrc2015> <http:\/\/t.co\/CUDxqbDpGb> (via Twitter <http:\/\/twitter.com\/Ferdy_Rosario\/status\/606332371890110464>)",
+                "fallback": "@Ferdy_Rosario : RT @crigor: Great to see @engineyard support @rubytogether <#C05243LGR|rdrc2015> <http:\/\/t.co\/CUDxqbDpGb> (via Twitter <http:\/\/twitter.com\/Ferdy_Rosario\/status\/606332371890110464>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433396083.000063"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/554664377979117569\/8GQWssgS_normal.png",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@steholmes : RT @confreaks: We are in lovely Singapore recording <#C05243LGR|rdrc2015> - @yukihiro_matz is opening keynote. Videos in 2-3 weeks at <http:\/\/t.co\/XYq8AMxmaF> (via Twitter <http:\/\/twitter.com\/steholmes\/status\/606333358394572800>)",
+                "fallback": "@steholmes : RT @confreaks: We are in lovely Singapore recording <#C05243LGR|rdrc2015> - @yukihiro_matz is opening keynote. Videos in 2-3 weeks at <http:\/\/t.co\/XYq8AMxmaF> (via Twitter <http:\/\/twitter.com\/steholmes\/status\/606333358394572800>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433396325.000064"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/3751814748\/86db6c548bb7fa3f2d2bab38cae50302_normal.jpeg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@torresdal : RT <@U052YSBUH|nusco>: Matz: \u201cI don\u2019t like testing because it\u2019s redundant. If we are smart enough, we can avoid it. Only, I have no idea how to do that.\u201d <#C05243LGR|rdrc2015> (via Twitter <http:\/\/twitter.com\/torresdal\/status\/606336441501798400>)",
+                "fallback": "@torresdal : RT <@U052YSBUH|nusco>: Matz: \u201cI don\u2019t like testing because it\u2019s redundant. If we are smart enough, we can avoid it. Only, I have no idea how to do that.\u201d <#C05243LGR|rdrc2015> (via Twitter <http:\/\/twitter.com\/torresdal\/status\/606336441501798400>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433396953.000065"
+    },
+    {
+        "user": "U055UMWMU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U055UMWMU|edmundhee> has joined the channel",
+        "ts": "1433397151.000066"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/604968109401878528\/yd7gcjdF_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@JadeNagaraja : RT @JuanitoFatas: Fundamental human needs <#C05243LGR|rdrc2015> <http:\/\/t.co\/WesgMd18cC> (via Twitter <http:\/\/twitter.com\/JadeNagaraja\/status\/606341059359186944>)",
+                "fallback": "@JadeNagaraja : RT @JuanitoFatas: Fundamental human needs <#C05243LGR|rdrc2015> <http:\/\/t.co\/WesgMd18cC> (via Twitter <http:\/\/twitter.com\/JadeNagaraja\/status\/606341059359186944>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433398163.000067"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/594042543794323456\/HgB_UMYo_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "<@U056F5LHH|jimmynguyc> : Great meeting the great @yukihiro_matz :) enjoyed every bit of conversation we had just now <#C05243LGR|rdrc2015> #rubyfriends <http:\/\/t.co\/YkmKpc5AZ4> (via Twitter <http:\/\/twitter.com\/jimmynguyc\/status\/606341886932967425>)",
+                "fallback": "<@U056F5LHH|jimmynguyc> : Great meeting the great @yukihiro_matz :) enjoyed every bit of conversation we had just now <#C05243LGR|rdrc2015> #rubyfriends <http:\/\/t.co\/YkmKpc5AZ4> (via Twitter <http:\/\/twitter.com\/jimmynguyc\/status\/606341886932967425>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433398435.000068"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/423330783248396288\/NBiztAOB_normal.jpeg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@shinnchong : .@lrz on rubymotion! <#C05243LGR|rdrc2015> <http:\/\/t.co\/R01Ur94NE5> (via Twitter <http:\/\/twitter.com\/shinnchong\/status\/606342091216556033>)",
+                "fallback": "@shinnchong : .@lrz on rubymotion! <#C05243LGR|rdrc2015> <http:\/\/t.co\/R01Ur94NE5> (via Twitter <http:\/\/twitter.com\/shinnchong\/status\/606342091216556033>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433398436.000069"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/3192355945\/b8c48aeba3f4b850cd1ee24440aeff25_normal.jpeg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@metalkoholic : With @yukihiro_matz <#C05243LGR|rdrc2015> cc: @41studio <http:\/\/t.co\/CkkYnxTIEO> (via Twitter <http:\/\/twitter.com\/metalkoholic\/status\/606343016308015104>)",
+                "fallback": "@metalkoholic : With @yukihiro_matz <#C05243LGR|rdrc2015> cc: @41studio <http:\/\/t.co\/CkkYnxTIEO> (via Twitter <http:\/\/twitter.com\/metalkoholic\/status\/606343016308015104>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433398632.000070"
+    },
+    {
+        "type": "message",
+        "user": "U03SWKEV5",
+        "text": "<@U055V6QG0>: re the bus ride, we are only providing one way from the hotel. Sorry for the lack of information! ",
+        "ts": "1433398634.000071"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/23806912\/twitter-icon_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@napramirez : No pain, no gain! @lrz  <#C05243LGR|rdrc2015> <http:\/\/t.co\/vAVaxIzLcS> (via Twitter <http:\/\/twitter.com\/napramirez\/status\/606343138307764224>)",
+                "fallback": "@napramirez : No pain, no gain! @lrz  <#C05243LGR|rdrc2015> <http:\/\/t.co\/vAVaxIzLcS> (via Twitter <http:\/\/twitter.com\/napramirez\/status\/606343138307764224>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433398637.000072"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "pretext": "@TSigberg : RT <@U052YSBUH|nusco>: Matz: \u201cI don\u2019t like testing because it\u2019s redundant. If we are smart enough, we can avoid it. Only, I have no idea how to do that.\u201d <#C05243LGR|rdrc2015> (via Twitter <http:\/\/twitter.com\/TSigberg\/status\/606343452318658561>)",
+                "fallback": "@TSigberg : RT <@U052YSBUH|nusco>: Matz: \u201cI don\u2019t like testing because it\u2019s redundant. If we are smart enough, we can avoid it. Only, I have no idea how to do that.\u201d <#C05243LGR|rdrc2015> (via Twitter <http:\/\/twitter.com\/TSigberg\/status\/606343452318658561>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433398687.000073"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/2787865524\/8322f9396ef7262ef72b7825dd46e73d_normal.jpeg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@RubyFriends : RT <@U056F5LHH|jimmynguyc>: Great meeting the great @yukihiro_matz :) enjoyed every bit of conversation we had just now <#C05243LGR|rdrc2015> #rubyfriends <http:\/\/t.co\/YkmKpc5AZ4> (via Twitter <http:\/\/twitter.com\/RubyFriends\/status\/606343685475844097>)",
+                "fallback": "@RubyFriends : RT <@U056F5LHH|jimmynguyc>: Great meeting the great @yukihiro_matz :) enjoyed every bit of conversation we had just now <#C05243LGR|rdrc2015> #rubyfriends <http:\/\/t.co\/YkmKpc5AZ4> (via Twitter <http:\/\/twitter.com\/RubyFriends\/status\/606343685475844097>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433398696.000074"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/604894156100468736\/F9Xpja3B_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@jin_ : .@lrz on @RubyMotion &amp;amp; native dev. This was what got me started on an iOS journey at @tinkerbox :\u2018) <#C05243LGR|rdrc2015> <http:\/\/t.co\/IxJhABHZav> (via Twitter <http:\/\/twitter.com\/jin_\/status\/606343784507437056>)",
+                "fallback": "@jin_ : .@lrz on @RubyMotion &amp;amp; native dev. This was what got me started on an iOS journey at @tinkerbox :\u2018) <#C05243LGR|rdrc2015> <http:\/\/t.co\/IxJhABHZav> (via Twitter <http:\/\/twitter.com\/jin_\/status\/606343784507437056>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433398700.000075"
+    },
+    {
+        "type": "message",
+        "user": "U055V6QG0",
+        "text": "Thanks <@U03SWKEV5> ",
+        "ts": "1433398736.000076"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/586753495165898754\/Kj-1XxNo_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@_cha1tanya : RT @jin_: Resonating with @_cha1tanya on React.js, especially with the JSX part. It did feel dirty, but's absolute great when grokked. <#C05243LGR|rdrc2015> (via Twitter <http:\/\/twitter.com\/_cha1tanya\/status\/606344311039361024>)",
+                "fallback": "@_cha1tanya : RT @jin_: Resonating with @_cha1tanya on React.js, especially with the JSX part. It did feel dirty, but's absolute great when grokked. <#C05243LGR|rdrc2015> (via Twitter <http:\/\/twitter.com\/_cha1tanya\/status\/606344311039361024>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433398849.000077"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/jasonyeojs|@jasonyeojs>: Angry Richard stallman #rdrc2015 <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGorftQUIAAxIE4.jpg>",
+                "author_name": "Jason Yeo",
+                "author_link": "https:\/\/twitter.com\/jasonyeojs\/status\/606344936481431552",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/378800000660607656\/41fb1b499b9f5158076102ee0733ba45_normal.jpeg",
+                "author_subname": "@jasonyeojs",
+                "pretext": "<https:\/\/twitter.com\/jasonyeojs\/status\/606344936481431552>",
+                "text": "Angry Richard stallman #rdrc2015 <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGorftQUIAAxIE4.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGorftQUIAAxIE4.jpg",
+                "image_width": 576,
+                "image_height": 1024,
+                "image_bytes": 50355,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433398873.000078"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/_cha1tanya|@_cha1tanya>: My slides for React.js talk <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>  #rdrc2015 <https:\/\/speakerdeck.com\/chaitanya\/rethinking-the-view-using-react-dot-js>",
+                "author_name": "Prathamesh Sonpatki",
+                "author_link": "https:\/\/twitter.com\/_cha1tanya\/status\/606345024997957633",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/586753495165898754\/Kj-1XxNo_normal.jpg",
+                "author_subname": "@_cha1tanya",
+                "pretext": "<https:\/\/twitter.com\/_cha1tanya\/status\/606345024997957633>",
+                "text": "My slides for React.js talk <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>  #rdrc2015 <https:\/\/speakerdeck.com\/chaitanya\/rethinking-the-view-using-react-dot-js>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433398894.000079"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/casey_lang|@casey_lang>: . <https:\/\/twitter.com\/amirrajan|@amirrajan> on the big screen at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> during <https:\/\/twitter.com\/lrz|@lrz>'s RubyMotion talk <https:\/\/pbs.twimg.com\/media\/CGorpSDUIAADPoG.jpg>",
+                "author_name": "Casey Lang",
+                "author_link": "https:\/\/twitter.com\/casey_lang\/status\/606345115456520193",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/425508935311716353\/1aHiZMUr_normal.jpeg",
+                "author_subname": "@casey_lang",
+                "pretext": "<https:\/\/twitter.com\/casey_lang\/status\/606345115456520193>",
+                "text": ". <https:\/\/twitter.com\/amirrajan|@amirrajan> on the big screen at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> during <https:\/\/twitter.com\/lrz|@lrz>'s RubyMotion talk <https:\/\/pbs.twimg.com\/media\/CGorpSDUIAADPoG.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGorpSDUIAADPoG.jpg",
+                "image_width": 585,
+                "image_height": 1040,
+                "image_bytes": 72165,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433398916.000080"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/1185609854\/GeirPortrett2626-2_normal.JPG",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@gamsjo : RT <@U052YSBUH|nusco>: Matz: \u201cI don\u2019t like testing because it\u2019s redundant. If we are smart enough, we can avoid it. Only, I have no idea how to do that.\u201d <#C05243LGR|rdrc2015> (via Twitter <http:\/\/twitter.com\/gamsjo\/status\/606345181324017664>)",
+                "fallback": "@gamsjo : RT <@U052YSBUH|nusco>: Matz: \u201cI don\u2019t like testing because it\u2019s redundant. If we are smart enough, we can avoid it. Only, I have no idea how to do that.\u201d <#C05243LGR|rdrc2015> (via Twitter <http:\/\/twitter.com\/gamsjo\/status\/606345181324017664>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433398989.000081"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/_cha1tanya|@_cha1tanya>: My slides for React.js talk <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>  #rdrc2015 <https:\/\/speakerdeck.com\/chaitanya\/rethinking-the-view-using-react-dot-js>",
+                "author_name": "Prathamesh Sonpatki",
+                "author_link": "https:\/\/twitter.com\/_cha1tanya\/status\/606345024997957633",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/586753495165898754\/Kj-1XxNo_normal.jpg",
+                "author_subname": "@_cha1tanya",
+                "pretext": "<https:\/\/twitter.com\/_cha1tanya\/status\/606345024997957633>",
+                "text": "My slides for React.js talk <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>  #rdrc2015 <https:\/\/speakerdeck.com\/chaitanya\/rethinking-the-view-using-react-dot-js>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/606345373972463616|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433398990.000082"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>: ... But boring is stable. - <https:\/\/twitter.com\/lrz|@lrz> on <https:\/\/twitter.com\/RubyMotion|@RubyMotion> <https:\/\/pbs.twimg.com\/media\/CGotA5NVAAAB6JX.jpg>",
+                "author_name": "RedDotRubyConf",
+                "author_link": "https:\/\/twitter.com\/reddotrubyconf\/status\/606346673711808513",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/3261940620\/0a27e2dfbd04ac82ccde7502b9b3d16d_normal.png",
+                "author_subname": "@reddotrubyconf",
+                "pretext": "<https:\/\/twitter.com\/reddotrubyconf\/status\/606346673711808513>",
+                "text": "... But boring is stable. - <https:\/\/twitter.com\/lrz|@lrz> on <https:\/\/twitter.com\/RubyMotion|@RubyMotion> <https:\/\/pbs.twimg.com\/media\/CGotA5NVAAAB6JX.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433399317.000083"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/bentanweihao|@bentanweihao>: waves <https:\/\/twitter.com\/jasonyeojs|@jasonyeojs> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>",
+                "author_name": "Benjamin Tan Wei Hao",
+                "author_link": "https:\/\/twitter.com\/bentanweihao\/status\/606347508910952449",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/2545563040\/idqc6w7fj9ju5io823z1_normal.jpeg",
+                "author_subname": "@bentanweihao",
+                "pretext": "<https:\/\/twitter.com\/bentanweihao\/status\/606347508910952449>",
+                "text": "waves <https:\/\/twitter.com\/jasonyeojs|@jasonyeojs> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433399486.000084"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: \"Obviously you should be using Vim\" <https:\/\/twitter.com\/lrz|@lrz> drops this bomb during his <https:\/\/twitter.com\/RubyMotion|@RubyMotion> speech <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #rdrc2015",
+                "author_name": "Nathania Wong",
+                "author_link": "https:\/\/twitter.com\/NathaniaWong\/status\/606348388804628480",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594158757346586625\/JMeBbqR5_normal.jpg",
+                "author_subname": "@NathaniaWong",
+                "pretext": "<https:\/\/twitter.com\/NathaniaWong\/status\/606348388804628480>",
+                "text": "\"Obviously you should be using Vim\" <https:\/\/twitter.com\/lrz|@lrz> drops this bomb during his <https:\/\/twitter.com\/RubyMotion|@RubyMotion> speech <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #rdrc2015",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433399696.000085"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/MarkFull|@MarkFull>: Using rakefile to config app sounds like a cleaner way than Xcode. Wish the potions work well. <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/twitter.com\/lrz|@lrz> <https:\/\/twitter.com\/RubyMotion|@RubyMotion> #rdrc2015",
+                "author_name": "MarkFull",
+                "author_link": "https:\/\/twitter.com\/MarkFull\/status\/606349578875465728",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/378800000047478773\/9309da6a3298da0a4b9f392cd022bf0a_normal.jpeg",
+                "author_subname": "@MarkFull",
+                "pretext": "<https:\/\/twitter.com\/MarkFull\/status\/606349578875465728>",
+                "text": "Using rakefile to config app sounds like a cleaner way than Xcode. Wish the potions work well. <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/twitter.com\/lrz|@lrz> <https:\/\/twitter.com\/RubyMotion|@RubyMotion> #rdrc2015",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433399979.000086"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: Nice to finally meet you <https:\/\/twitter.com\/sailorhg|@sailorhg> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> Hope you enjoy the rest of your stay in Singapore! Check out Meomi Cat Cafe :) #rdrc15",
+                "author_name": "Nathania Wong",
+                "author_link": "https:\/\/twitter.com\/NathaniaWong\/status\/606349848434966528",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594158757346586625\/JMeBbqR5_normal.jpg",
+                "author_subname": "@NathaniaWong",
+                "pretext": "<https:\/\/twitter.com\/NathaniaWong\/status\/606349848434966528>",
+                "text": "Nice to finally meet you <https:\/\/twitter.com\/sailorhg|@sailorhg> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> Hope you enjoy the rest of your stay in Singapore! Check out Meomi Cat Cafe :) #rdrc15",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433400044.000087"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/3592856308\/6f8be88d567ea35b66f82789f6ed2f64_normal.jpeg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@arnvald : Drag&amp;amp;drop driven development by @lrz at <#C05243LGR|rdrc2015> <http:\/\/t.co\/7WCb9etnNR> (via Twitter <http:\/\/twitter.com\/arnvald\/status\/606350062826823681>)",
+                "fallback": "@arnvald : Drag&amp;amp;drop driven development by @lrz at <#C05243LGR|rdrc2015> <http:\/\/t.co\/7WCb9etnNR> (via Twitter <http:\/\/twitter.com\/arnvald\/status\/606350062826823681>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433400150.000088"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/605727849484386304\/wpuDtuxz_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@Kounila : #reddotrubyconf looks so cool. I wanna learn to code #singapore <http:\/\/t.co\/fWc6gQ2muy> (via Twitter <http:\/\/twitter.com\/Kounila\/status\/606350085010497536>)",
+                "fallback": "@Kounila : #reddotrubyconf looks so cool. I wanna learn to code #singapore <http:\/\/t.co\/fWc6gQ2muy> (via Twitter <http:\/\/twitter.com\/Kounila\/status\/606350085010497536>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433400151.000089"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/586753495165898754\/Kj-1XxNo_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@_cha1tanya : RT @arnvald: Drag&amp;amp;drop driven development by @lrz at <#C05243LGR|rdrc2015> <http:\/\/t.co\/7WCb9etnNR> (via Twitter <http:\/\/twitter.com\/_cha1tanya\/status\/606350201213743105>)",
+                "fallback": "@_cha1tanya : RT @arnvald: Drag&amp;amp;drop driven development by @lrz at <#C05243LGR|rdrc2015> <http:\/\/t.co\/7WCb9etnNR> (via Twitter <http:\/\/twitter.com\/_cha1tanya\/status\/606350201213743105>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433400152.000090"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/23806912\/twitter-icon_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@napramirez : @lrz doing flappy bird on the spot with a bit of magic @RubyMotion  <#C05243LGR|rdrc2015> <http:\/\/t.co\/P0pkcCPN5x> (via Twitter <http:\/\/twitter.com\/napramirez\/status\/606350364191768576>)",
+                "fallback": "@napramirez : @lrz doing flappy bird on the spot with a bit of magic @RubyMotion  <#C05243LGR|rdrc2015> <http:\/\/t.co\/P0pkcCPN5x> (via Twitter <http:\/\/twitter.com\/napramirez\/status\/606350364191768576>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433400386.000091"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/421288803534655488\/QslZUr44_normal.jpeg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@blackberga : RT @JuanitoFatas: Fundamental human needs <#C05243LGR|rdrc2015> <http:\/\/t.co\/WesgMd18cC> (via Twitter <http:\/\/twitter.com\/blackberga\/status\/606351136304590848>)",
+                "fallback": "@blackberga : RT @JuanitoFatas: Fundamental human needs <#C05243LGR|rdrc2015> <http:\/\/t.co\/WesgMd18cC> (via Twitter <http:\/\/twitter.com\/blackberga\/status\/606351136304590848>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433400387.000092"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/586534241799766017\/jN4Y6OPR_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "<@U03T1D0UV|sausheong> : @lrz doing live coding a Flappy Bird clone with RubyMotion at <#C05243LGR|rdrc2015>! Super super cool! <http:\/\/t.co\/Sr2ce2OXz8> (via Twitter <http:\/\/twitter.com\/sausheong\/status\/606351156923596801>)",
+                "fallback": "<@U03T1D0UV|sausheong> : @lrz doing live coding a Flappy Bird clone with RubyMotion at <#C05243LGR|rdrc2015>! Super super cool! <http:\/\/t.co\/Sr2ce2OXz8> (via Twitter <http:\/\/twitter.com\/sausheong\/status\/606351156923596801>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433400387.000093"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: \"The future of Rubymotion lies in creating cross platform games for mobile\" <https:\/\/twitter.com\/lrz|@lrz> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> So happy when I heard this! #rdrc2015",
+                "author_name": "Nathania Wong",
+                "author_link": "https:\/\/twitter.com\/NathaniaWong\/status\/606351328319651842",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594158757346586625\/JMeBbqR5_normal.jpg",
+                "author_subname": "@NathaniaWong",
+                "pretext": "<https:\/\/twitter.com\/NathaniaWong\/status\/606351328319651842>",
+                "text": "\"The future of Rubymotion lies in creating cross platform games for mobile\" <https:\/\/twitter.com\/lrz|@lrz> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> So happy when I heard this! #rdrc2015",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433400396.000094"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/anna_fil|@anna_fil>: Blown away. <https:\/\/twitter.com\/lrz|@lrz> is writing a game with mruby right in front of us! #rdrc2015 <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGoxV1LVIAAktH5.jpg>",
+                "author_name": "Anna Filippova",
+                "author_link": "https:\/\/twitter.com\/anna_fil\/status\/606351353082843136",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/478222464892157953\/Aovvqooq_normal.jpeg",
+                "author_subname": "@anna_fil",
+                "pretext": "<https:\/\/twitter.com\/anna_fil\/status\/606351353082843136>",
+                "text": "Blown away. <https:\/\/twitter.com\/lrz|@lrz> is writing a game with mruby right in front of us! #rdrc2015 <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/pbs.twimg.com\/media\/CGoxV1LVIAAktH5.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGoxV1LVIAAktH5.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 26296,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433400403.000095"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/604938261111447552\/c13EzNHh_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@reydisutandang : RT @arnvald: Drag&amp;amp;drop driven development by @lrz at <#C05243LGR|rdrc2015> <http:\/\/t.co\/7WCb9etnNR> (via Twitter <http:\/\/twitter.com\/reydisutandang\/status\/606351370761805824>)",
+                "fallback": "@reydisutandang : RT @arnvald: Drag&amp;amp;drop driven development by @lrz at <#C05243LGR|rdrc2015> <http:\/\/t.co\/7WCb9etnNR> (via Twitter <http:\/\/twitter.com\/reydisutandang\/status\/606351370761805824>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433400590.000096"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/512081720909111296\/HBVP63Cv_normal.jpeg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@nacyo_t : RT @blueiur: \uc77c\ub144\ub9cc\uc5d0 \ub2e4\uc2dc \ub9cc\ub09c \ub9c8\uce20(\ub8e8\ube44 \uc5b8\uc5b4 \ucc3d\uc2dc\uc790) #reddot #reddotrubyconf <http:\/\/t.co\/pkxDYIqHBy> (via Twitter <http:\/\/twitter.com\/nacyo_t\/status\/606351847058632704>)",
+                "fallback": "@nacyo_t : RT @blueiur: \uc77c\ub144\ub9cc\uc5d0 \ub2e4\uc2dc \ub9cc\ub09c \ub9c8\uce20(\ub8e8\ube44 \uc5b8\uc5b4 \ucc3d\uc2dc\uc790) #reddot #reddotrubyconf <http:\/\/t.co\/pkxDYIqHBy> (via Twitter <http:\/\/twitter.com\/nacyo_t\/status\/606351847058632704>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433400591.000097"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/sausheong|@sausheong>: <https:\/\/twitter.com\/lrz|@lrz> doing live coding a Flappy Bird clone with RubyMotion at #rdrc2015! Super super cool! <https:\/\/pbs.twimg.com\/media\/CGoxJ8NUQAAIbfe.jpg>",
+                "author_name": "Sau Sheong",
+                "author_link": "https:\/\/twitter.com\/sausheong\/status\/606351156923596801",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/586534241799766017\/jN4Y6OPR_normal.jpg",
+                "author_subname": "@sausheong",
+                "pretext": "<https:\/\/twitter.com\/sausheong\/status\/606351156923596801>",
+                "text": "<https:\/\/twitter.com\/lrz|@lrz> doing live coding a Flappy Bird clone with RubyMotion at #rdrc2015! Super super cool! <https:\/\/pbs.twimg.com\/media\/CGoxJ8NUQAAIbfe.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGoxJ8NUQAAIbfe.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 24556,
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/606352280552501248|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433400624.000098"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/586753495165898754\/Kj-1XxNo_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@_cha1tanya : RT <@U03T1D0UV|sausheong>: @lrz doing live coding a Flappy Bird clone with RubyMotion at <#C05243LGR|rdrc2015>! Super super cool! <http:\/\/t.co\/Sr2ce2OXz8> (via Twitter <http:\/\/twitter.com\/_cha1tanya\/status\/606352168833015809>)",
+                "fallback": "@_cha1tanya : RT <@U03T1D0UV|sausheong>: @lrz doing live coding a Flappy Bird clone with RubyMotion at <#C05243LGR|rdrc2015>! Super super cool! <http:\/\/t.co\/Sr2ce2OXz8> (via Twitter <http:\/\/twitter.com\/_cha1tanya\/status\/606352168833015809>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433400749.000099"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/421288803534655488\/QslZUr44_normal.jpeg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@blackberga : RT <@U052YSBUH|nusco>: Matz: \u201cI don\u2019t like testing because it\u2019s redundant. If we are smart enough, we can avoid it. Only, I have no idea how to do that.\u201d <#C05243LGR|rdrc2015> (via Twitter <http:\/\/twitter.com\/blackberga\/status\/606352180262629376>)",
+                "fallback": "@blackberga : RT <@U052YSBUH|nusco>: Matz: \u201cI don\u2019t like testing because it\u2019s redundant. If we are smart enough, we can avoid it. Only, I have no idea how to do that.\u201d <#C05243LGR|rdrc2015> (via Twitter <http:\/\/twitter.com\/blackberga\/status\/606352180262629376>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433400751.000100"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/3070884790\/0f324e3c28bba73c8252437b6aa77914_normal.png",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@webuildsg : RT <@U03T1D0UV|sausheong>: @lrz doing live coding a Flappy Bird clone with RubyMotion at <#C05243LGR|rdrc2015>! Super super cool! <http:\/\/t.co\/Sr2ce2OXz8> (via Twitter <http:\/\/twitter.com\/webuildsg\/status\/606352517232889858>)",
+                "fallback": "@webuildsg : RT <@U03T1D0UV|sausheong>: @lrz doing live coding a Flappy Bird clone with RubyMotion at <#C05243LGR|rdrc2015>! Super super cool! <http:\/\/t.co\/Sr2ce2OXz8> (via Twitter <http:\/\/twitter.com\/webuildsg\/status\/606352517232889858>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433400754.000101"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/476891910712209408\/DlTnYJfo_normal.jpeg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@_fadhli : Flappy bird live coding on rubymotion #reddotrubyconf by @lrz <http:\/\/t.co\/R5WKhSAiGD> (via Twitter <http:\/\/twitter.com\/_fadhli\/status\/606352995295494145>)",
+                "fallback": "@_fadhli : Flappy bird live coding on rubymotion #reddotrubyconf by @lrz <http:\/\/t.co\/R5WKhSAiGD> (via Twitter <http:\/\/twitter.com\/_fadhli\/status\/606352995295494145>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433400966.000102"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/586534241799766017\/jN4Y6OPR_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "<@U03T1D0UV|sausheong> : @lrz hats off for a great presentation and demo, and great work with motion-game! <#C05243LGR|rdrc2015> (via Twitter <http:\/\/twitter.com\/sausheong\/status\/606353178624299008>)",
+                "fallback": "<@U03T1D0UV|sausheong> : @lrz hats off for a great presentation and demo, and great work with motion-game! <#C05243LGR|rdrc2015> (via Twitter <http:\/\/twitter.com\/sausheong\/status\/606353178624299008>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433400966.000103"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/586753495165898754\/Kj-1XxNo_normal.jpg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@_cha1tanya : RT <@U03T1D0UV|sausheong>: @lrz hats off for a great presentation and demo, and great work with motion-game! <#C05243LGR|rdrc2015> (via Twitter <http:\/\/twitter.com\/_cha1tanya\/status\/606353377316868096>)",
+                "fallback": "@_cha1tanya : RT <@U03T1D0UV|sausheong>: @lrz hats off for a great presentation and demo, and great work with motion-game! <#C05243LGR|rdrc2015> (via Twitter <http:\/\/twitter.com\/_cha1tanya\/status\/606353377316868096>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433400966.000104"
+    },
+    {
+        "username": "IFTTT",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/7bf4\/img\/services\/ifttt_48.png"
+        },
+        "attachments": [
+            {
+                "thumb_url": "http:\/\/pbs.twimg.com\/profile_images\/573055235746222080\/sdmPHHmO_normal.jpeg",
+                "thumb_width": 48,
+                "thumb_height": 48,
+                "text": "@JuanitoFatas : RT <@U03T1D0UV|sausheong>: @lrz doing live coding a Flappy Bird clone with RubyMotion at <#C05243LGR|rdrc2015>! Super super cool! <http:\/\/t.co\/Sr2ce2OXz8> (via Twitter <http:\/\/twitter.com\/JuanitoFatas\/status\/606354043573698561>)",
+                "fallback": "@JuanitoFatas : RT <@U03T1D0UV|sausheong>: @lrz doing live coding a Flappy Bird clone with RubyMotion at <#C05243LGR|rdrc2015>! Super super cool! <http:\/\/t.co\/Sr2ce2OXz8> (via Twitter <http:\/\/twitter.com\/JuanitoFatas\/status\/606354043573698561>)",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "mrkdwn": true,
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433401142.000105"
+    }
+]

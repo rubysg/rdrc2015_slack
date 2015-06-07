@@ -1,0 +1,444 @@
+[
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/GitHubEng|@GitHubEng>: Don't miss <https:\/\/twitter.com\/jesseplusplus|@jesseplusplus> talking about Tackling Large Ruby Refactorings with Confidence (and Science!) at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>.",
+                "author_name": "GitHub Engineering",
+                "author_link": "https:\/\/twitter.com\/GitHubEng\/status\/605274961129799680",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/593061696039706627\/uzIQ4lJF_normal.png",
+                "author_subname": "@GitHubEng",
+                "pretext": "<https:\/\/twitter.com\/GitHubEng\/status\/605274961129799680>",
+                "text": "Don't miss <https:\/\/twitter.com\/jesseplusplus|@jesseplusplus> talking about Tackling Large Ruby Refactorings with Confidence (and Science!) at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433143771.000002"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/jesseplusplus|@jesseplusplus>: Getting excited (and nervous) for my talk at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> in a few days! I love telling this story and sharing our tools and process!",
+                "author_name": "Jesse++",
+                "author_link": "https:\/\/twitter.com\/jesseplusplus\/status\/605294060274774016",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/529879087389483008\/lJ5QnSO8_normal.jpeg",
+                "author_subname": "@jesseplusplus",
+                "pretext": "<https:\/\/twitter.com\/jesseplusplus\/status\/605294060274774016>",
+                "text": "Getting excited (and nervous) for my talk at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> in a few days! I love telling this story and sharing our tools and process!",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433148325.000003"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/jesseplusplus|@jesseplusplus>: Getting excited (and nervous) for my talk at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> in a few days! I love telling this story and sharing our tools and process!",
+                "author_name": "Jesse++",
+                "author_link": "https:\/\/twitter.com\/jesseplusplus\/status\/605294060274774016",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/529879087389483008\/lJ5QnSO8_normal.jpeg",
+                "author_subname": "@jesseplusplus",
+                "pretext": "<https:\/\/twitter.com\/jesseplusplus\/status\/605294060274774016>",
+                "text": "Getting excited (and nervous) for my talk at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> in a few days! I love telling this story and sharing our tools and process!",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/605323326710521856|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433155302.000004"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/_cha1tanya|@_cha1tanya>: Leaving for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> in a while. Pune to Mumbai to Singapore",
+                "author_name": "Prathamesh Sonpatki",
+                "author_link": "https:\/\/twitter.com\/_cha1tanya\/status\/605324164111548416",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/586753495165898754\/Kj-1XxNo_normal.jpg",
+                "author_subname": "@_cha1tanya",
+                "pretext": "<https:\/\/twitter.com\/_cha1tanya\/status\/605324164111548416>",
+                "text": "Leaving for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> in a while. Pune to Mumbai to Singapore",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433155502.000005"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/_cha1tanya|@_cha1tanya>: Leaving for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> in a while. Pune to Mumbai to Singapore",
+                "author_name": "Prathamesh Sonpatki",
+                "author_link": "https:\/\/twitter.com\/_cha1tanya\/status\/605324164111548416",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/586753495165898754\/Kj-1XxNo_normal.jpg",
+                "author_subname": "@_cha1tanya",
+                "pretext": "<https:\/\/twitter.com\/_cha1tanya\/status\/605324164111548416>",
+                "text": "Leaving for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> in a while. Pune to Mumbai to Singapore",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/605324924564197377|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433155683.000006"
+    },
+    {
+        "type": "message",
+        "user": "U03SWKEV5",
+        "text": "Counting down to people's arrival",
+        "ts": "1433155856.000007"
+    },
+    {
+        "type": "message",
+        "user": "U0463AE1C",
+        "text": "awesome!",
+        "ts": "1433155864.000008"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/BilalBudhani|@BilalBudhani>: <https:\/\/twitter.com\/_cha1tanya|@_cha1tanya> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> when is your flight to Singapore? How much time will you have in Mumbai?",
+                "author_name": "Bilal Budhani",
+                "author_link": "https:\/\/twitter.com\/BilalBudhani\/status\/605326675853705218",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/502736647620796416\/icrcZqtP_normal.jpeg",
+                "author_subname": "@BilalBudhani",
+                "pretext": "<https:\/\/twitter.com\/BilalBudhani\/status\/605326675853705218>",
+                "text": "<https:\/\/twitter.com\/_cha1tanya|@_cha1tanya> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> when is your flight to Singapore? How much time will you have in Mumbai?",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433156100.000009"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/shah_chirag|@shah_chirag>: <https:\/\/twitter.com\/_cha1tanya|@_cha1tanya> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> All the best. Have fun.",
+                "author_name": "Chirag Shah",
+                "author_link": "https:\/\/twitter.com\/shah_chirag\/status\/605326681662877697",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/603444742299365376\/bGFTlwdb_normal.jpg",
+                "author_subname": "@shah_chirag",
+                "pretext": "<https:\/\/twitter.com\/shah_chirag\/status\/605326681662877697>",
+                "text": "<https:\/\/twitter.com\/_cha1tanya|@_cha1tanya> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> All the best. Have fun.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433156102.000010"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/jagdishdasani|@jagdishdasani>: <https:\/\/twitter.com\/_cha1tanya|@_cha1tanya> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> All the best man.",
+                "author_name": "Jak dasani | CSM",
+                "author_link": "https:\/\/twitter.com\/jagdishdasani\/status\/605328465361903616",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/588808095628795904\/n2vr_IQH_normal.jpg",
+                "author_subname": "@jagdishdasani",
+                "pretext": "<https:\/\/twitter.com\/jagdishdasani\/status\/605328465361903616>",
+                "text": "<https:\/\/twitter.com\/_cha1tanya|@_cha1tanya> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> All the best man.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433156527.000011"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/webuildsg|@webuildsg>: We are chatting with Ruby core contributors in town for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> this week! Send us your questions #rdrc2015 :sparkling_heart:",
+                "author_name": "We Build SG",
+                "author_link": "https:\/\/twitter.com\/webuildsg\/status\/605333813120503808",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/3070884790\/0f324e3c28bba73c8252437b6aa77914_normal.png",
+                "author_subname": "@webuildsg",
+                "pretext": "<https:\/\/twitter.com\/webuildsg\/status\/605333813120503808>",
+                "text": "We are chatting with Ruby core contributors in town for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> this week! Send us your questions #rdrc2015 :sparkling_heart:",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433157802.000012"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/tenderlove|@tenderlove>: Heading to Singapore for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> !!",
+                "author_name": "Aaron Patterson",
+                "author_link": "https:\/\/twitter.com\/tenderlove\/status\/605457416600219648",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/378800000325798111\/ca48276f8ebbbbac9c6ce83aac3c8548_normal.jpeg",
+                "author_subname": "@tenderlove",
+                "pretext": "<https:\/\/twitter.com\/tenderlove\/status\/605457416600219648>",
+                "text": "Heading to Singapore for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> !!",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433187271.000013"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/samsaffron|@samsaffron>: Very excited to be speaking at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> on Friday, headed to Singapore in 2 hours",
+                "author_name": "Sam Saffron",
+                "author_link": "https:\/\/twitter.com\/samsaffron\/status\/605498978860277760",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/306508932\/3dcae8378d46c244172a115c28ca49ce_normal.png",
+                "author_subname": "@samsaffron",
+                "pretext": "<https:\/\/twitter.com\/samsaffron\/status\/605498978860277760>",
+                "text": "Very excited to be speaking at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> on Friday, headed to Singapore in 2 hours",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433197181.000014"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/JuanitoFatas|@JuanitoFatas>: Off to Singapore for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>. \nTPE :airplane: SIN :heart_eyes::heart_eyes::heart_eyes:",
+                "author_name": " Juanito Fatas  ",
+                "author_link": "https:\/\/twitter.com\/JuanitoFatas\/status\/605528010846924801",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/573055235746222080\/sdmPHHmO_normal.jpeg",
+                "author_subname": "@JuanitoFatas",
+                "pretext": "<https:\/\/twitter.com\/JuanitoFatas\/status\/605528010846924801>",
+                "text": "Off to Singapore for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>. \nTPE :airplane: SIN :heart_eyes::heart_eyes::heart_eyes:",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433204102.000015"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/samsaffron|@samsaffron>: Very excited to be speaking at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> on Friday, headed to Singapore in 2 hours",
+                "author_name": "Sam Saffron",
+                "author_link": "https:\/\/twitter.com\/samsaffron\/status\/605498978860277760",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/306508932\/3dcae8378d46c244172a115c28ca49ce_normal.png",
+                "author_subname": "@samsaffron",
+                "pretext": "<https:\/\/twitter.com\/samsaffron\/status\/605498978860277760>",
+                "text": "Very excited to be speaking at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> on Friday, headed to Singapore in 2 hours",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/605562307066753024|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433212279.000016"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/tenderlove|@tenderlove>: Heading to Singapore for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> !!",
+                "author_name": "Aaron Patterson",
+                "author_link": "https:\/\/twitter.com\/tenderlove\/status\/605457416600219648",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/378800000325798111\/ca48276f8ebbbbac9c6ce83aac3c8548_normal.jpeg",
+                "author_subname": "@tenderlove",
+                "pretext": "<https:\/\/twitter.com\/tenderlove\/status\/605457416600219648>",
+                "text": "Heading to Singapore for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> !!",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/605562316575240192|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433212281.000017"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/vaidehijoshi|@vaidehijoshi>: Finally in Singapore and so excited about <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>!\n\n...and I guess that talk I'm giving on refactoring of self will be fun, too.",
+                "author_name": "Vaidehi Joshi",
+                "author_link": "https:\/\/twitter.com\/vaidehijoshi\/status\/605585169383194624",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/587461758803054593\/X0s8l__S_normal.png",
+                "author_subname": "@vaidehijoshi",
+                "pretext": "<https:\/\/twitter.com\/vaidehijoshi\/status\/605585169383194624>",
+                "text": "Finally in Singapore and so excited about <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>!\n\n...and I guess that talk I'm giving on refactoring of self will be fun, too.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433217730.000018"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/tenderlove|@tenderlove>: Looking forward to eating durian in Singapore after <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>. :pineapple:",
+                "author_name": "Aaron Patterson",
+                "author_link": "https:\/\/twitter.com\/tenderlove\/status\/605614934735454208",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/378800000325798111\/ca48276f8ebbbbac9c6ce83aac3c8548_normal.jpeg",
+                "author_subname": "@tenderlove",
+                "pretext": "<https:\/\/twitter.com\/tenderlove\/status\/605614934735454208>",
+                "text": "Looking forward to eating durian in Singapore after <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>. :pineapple:",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433224826.000019"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/heidarb|@heidarb>: <https:\/\/twitter.com\/tenderlove|@tenderlove> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> bring it to the conf, everyone will love you. Promise.",
+                "author_name": "Heidar",
+                "author_link": "https:\/\/twitter.com\/heidarb\/status\/605615253649367040",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/591619909022453760\/OcPJDSaM_normal.png",
+                "author_subname": "@heidarb",
+                "pretext": "<https:\/\/twitter.com\/heidarb\/status\/605615253649367040>",
+                "text": "<https:\/\/twitter.com\/tenderlove|@tenderlove> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> bring it to the conf, everyone will love you. Promise.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433224902.000020"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/mark_greenwood|@mark_greenwood>: <https:\/\/twitter.com\/samsaffron|@samsaffron> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> awesome best of luck",
+                "author_name": "Mark Greenwood",
+                "author_link": "https:\/\/twitter.com\/mark_greenwood\/status\/605616868607410177",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1218487552\/720117_858234_normal.jpg",
+                "author_subname": "@mark_greenwood",
+                "pretext": "<https:\/\/twitter.com\/mark_greenwood\/status\/605616868607410177>",
+                "text": "<https:\/\/twitter.com\/samsaffron|@samsaffron> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> awesome best of luck",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433225288.000021"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/cmatheson|@cmatheson>: <https:\/\/twitter.com\/tenderlove|@tenderlove> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> it's better frozen, if you can get it that way",
+                "author_name": "Cameron Matheson",
+                "author_link": "https:\/\/twitter.com\/cmatheson\/status\/605619199604449281",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/378800000023511431\/dae524c2d4331ffa738a50f0c595b130_normal.png",
+                "author_subname": "@cmatheson",
+                "pretext": "<https:\/\/twitter.com\/cmatheson\/status\/605619199604449281>",
+                "text": "<https:\/\/twitter.com\/tenderlove|@tenderlove> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> it's better frozen, if you can get it that way",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433225844.000022"
+    },
+    {
+        "type": "message",
+        "user": "U03THSWAU",
+        "text": "Looking ... forward ... to durian ...",
+        "ts": "1433226462.000023"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/matthewrudy|@matthewrudy>: So I finally bought my flights and ticket to <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>. See you on Thursday! <http:\/\/www.reddotrubyconf.com\/>",
+                "author_name": "Matthew Rudy Jacobs",
+                "author_link": "https:\/\/twitter.com\/matthewrudy\/status\/605622561687207937",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/35136352\/n36901864_34577774_5338_normal.jpg",
+                "author_subname": "@matthewrudy",
+                "pretext": "<https:\/\/twitter.com\/matthewrudy\/status\/605622561687207937>",
+                "text": "So I finally bought my flights and ticket to <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>. See you on Thursday! <http:\/\/www.reddotrubyconf.com\/>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433226645.000024"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/bentanweihao|@bentanweihao>: <https:\/\/twitter.com\/matthewrudy|@matthewrudy> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> see u there!",
+                "author_name": "Benjamin Tan Wei Hao",
+                "author_link": "https:\/\/twitter.com\/bentanweihao\/status\/605627547842310144",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/2545563040\/idqc6w7fj9ju5io823z1_normal.jpeg",
+                "author_subname": "@bentanweihao",
+                "pretext": "<https:\/\/twitter.com\/bentanweihao\/status\/605627547842310144>",
+                "text": "<https:\/\/twitter.com\/matthewrudy|@matthewrudy> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> see u there!",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433227834.000025"
+    }
+]

@@ -1,0 +1,600 @@
+[
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/matthewrudy|@matthewrudy>: <https:\/\/twitter.com\/bentanweihao|@bentanweihao> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> cool Benjamin. Want to chat about your book!",
+                "author_name": "Matthew Rudy Jacobs",
+                "author_link": "https:\/\/twitter.com\/matthewrudy\/status\/605635721546760193",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/35136352\/n36901864_34577774_5338_normal.jpg",
+                "author_subname": "@matthewrudy",
+                "pretext": "<https:\/\/twitter.com\/matthewrudy\/status\/605635721546760193>",
+                "text": "<https:\/\/twitter.com\/bentanweihao|@bentanweihao> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> cool Benjamin. Want to chat about your book!",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433229783.000026"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/_matthewd|@_matthewd>: <https:\/\/twitter.com\/tenderlove|@tenderlove> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> we all know that's the only reason you're coming",
+                "author_name": "Matthew Draper",
+                "author_link": "https:\/\/twitter.com\/_matthewd\/status\/605643624127164416",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/58642855\/e55df1cc7d5fdb4ae9bc2afcb9afe7e4_normal.jpeg",
+                "author_subname": "@_matthewd",
+                "pretext": "<https:\/\/twitter.com\/_matthewd\/status\/605643624127164416>",
+                "text": "<https:\/\/twitter.com\/tenderlove|@tenderlove> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> we all know that's the only reason you're coming",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433231666.000027"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>: Just in case you didn't read the email, please read it now. :) <http:\/\/us4.campaign-archive1.com\/?u=51a352ae9af438a37c600d337&amp;id=a63b3577ee>",
+                "author_name": "RedDotRubyConf",
+                "author_link": "https:\/\/twitter.com\/reddotrubyconf\/status\/605655917481172993",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/3261940620\/0a27e2dfbd04ac82ccde7502b9b3d16d_normal.png",
+                "author_subname": "@reddotrubyconf",
+                "pretext": "<https:\/\/twitter.com\/reddotrubyconf\/status\/605655917481172993>",
+                "text": "Just in case you didn't read the email, please read it now. :) <http:\/\/us4.campaign-archive1.com\/?u=51a352ae9af438a37c600d337&amp;id=a63b3577ee>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433234598.000028"
+    },
+    {
+        "type": "message",
+        "user": "U03TFF94K",
+        "text": "lol",
+        "ts": "1433234630.000029"
+    },
+    {
+        "type": "message",
+        "user": "U03TG6YTU",
+        "text": "we need a durian emoji",
+        "ts": "1433236084.000030"
+    },
+    {
+        "type": "message",
+        "user": "U03TG6YTU",
+        "text": "<@U03TFF94K>: any luck?",
+        "ts": "1433236091.000031"
+    },
+    {
+        "type": "message",
+        "user": "U03TFF94K",
+        "text": "this emoji stuff is per room tho",
+        "ts": "1433236108.000032"
+    },
+    {
+        "type": "message",
+        "user": "U03TG6YTU",
+        "text": "sure",
+        "ts": "1433236116.000033"
+    },
+    {
+        "type": "message",
+        "user": "U03TG6YTU",
+        "text": "img me durian",
+        "ts": "1433236121.000034"
+    },
+    {
+        "type": "message",
+        "user": "U03TFF94K",
+        "text": ":melon:",
+        "ts": "1433236150.000035"
+    },
+    {
+        "type": "message",
+        "user": "U03TFF94K",
+        "text": "lolol",
+        "ts": "1433236153.000036"
+    },
+    {
+        "type": "message",
+        "user": "U03TG6YTU",
+        "text": ":confused:",
+        "ts": "1433236168.000037"
+    },
+    {
+        "type": "message",
+        "user": "U03TG6YTU",
+        "text": "that\u2019s watermelon",
+        "ts": "1433236172.000038"
+    },
+    {
+        "type": "message",
+        "user": "U03TG6YTU",
+        "text": "where are the spikes :cry:",
+        "ts": "1433236182.000039"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/sausheong|@sausheong>: <https:\/\/twitter.com\/sailorhg|@sailorhg> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> I'm gonna get me some cool sailorhg stickers!",
+                "author_name": "Sau Sheong",
+                "author_link": "https:\/\/twitter.com\/sausheong\/status\/605676104880254976",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/586534241799766017\/jN4Y6OPR_normal.jpg",
+                "author_subname": "@sausheong",
+                "pretext": "<https:\/\/twitter.com\/sausheong\/status\/605676104880254976>",
+                "text": "<https:\/\/twitter.com\/sailorhg|@sailorhg> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> I'm gonna get me some cool sailorhg stickers!",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433239410.000040"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/sausheong|@sausheong>: <https:\/\/twitter.com\/jin_|@jin_> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> Whoa. Stickers. I want.",
+                "author_name": "Sau Sheong",
+                "author_link": "https:\/\/twitter.com\/sausheong\/status\/605676266407133186",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/586534241799766017\/jN4Y6OPR_normal.jpg",
+                "author_subname": "@sausheong",
+                "pretext": "<https:\/\/twitter.com\/sausheong\/status\/605676266407133186>",
+                "text": "<https:\/\/twitter.com\/jin_|@jin_> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> Whoa. Stickers. I want.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433239449.000041"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/sausheong|@sausheong>: Catch <https:\/\/twitter.com\/1911Bill|@1911Bill> and me talk about Ruby and robots at #rdrc2015 <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> !",
+                "author_name": "Sau Sheong",
+                "author_link": "https:\/\/twitter.com\/sausheong\/status\/605676944122724352",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/586534241799766017\/jN4Y6OPR_normal.jpg",
+                "author_subname": "@sausheong",
+                "pretext": "<https:\/\/twitter.com\/sausheong\/status\/605676944122724352>",
+                "text": "Catch <https:\/\/twitter.com\/1911Bill|@1911Bill> and me talk about Ruby and robots at #rdrc2015 <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> !",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433239611.000042"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/aquajach|@aquajach>: <https:\/\/twitter.com\/JuanitoFatas|@JuanitoFatas> havn't met you but see you in <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>",
+                "author_name": "Jack Chen S Y",
+                "author_link": "https:\/\/twitter.com\/aquajach\/status\/605677471980089344",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/519295870508867584\/-6pX_itI_normal.png",
+                "author_subname": "@aquajach",
+                "pretext": "<https:\/\/twitter.com\/aquajach\/status\/605677471980089344>",
+                "text": "<https:\/\/twitter.com\/JuanitoFatas|@JuanitoFatas> havn't met you but see you in <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433239736.000043"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/JuanitoFatas|@JuanitoFatas>: <https:\/\/twitter.com\/aquajach|@aquajach> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> See you!!! :blush::wave::skin-tone-3::wave::skin-tone-3::wave::skin-tone-3:",
+                "author_name": " Juanito Fatas  ",
+                "author_link": "https:\/\/twitter.com\/JuanitoFatas\/status\/605677807247564800",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/573055235746222080\/sdmPHHmO_normal.jpeg",
+                "author_subname": "@JuanitoFatas",
+                "pretext": "<https:\/\/twitter.com\/JuanitoFatas\/status\/605677807247564800>",
+                "text": "<https:\/\/twitter.com\/aquajach|@aquajach> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> See you!!! :blush::wave::skin-tone-3::wave::skin-tone-3::wave::skin-tone-3:",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433239816.000044"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/lcpriest|@lcpriest>: Any <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> speakers looking for dinner\/drinks plans? <https:\/\/twitter.com\/laura_nobilis|@laura_nobilis> and I are going to spiffy dapper",
+                "author_name": "Lachlan Priest",
+                "author_link": "https:\/\/twitter.com\/lcpriest\/status\/605678794775494656",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/468680860523196417\/aRLcq39P_normal.jpeg",
+                "author_subname": "@lcpriest",
+                "pretext": "<https:\/\/twitter.com\/lcpriest\/status\/605678794775494656>",
+                "text": "Any <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> speakers looking for dinner\/drinks plans? <https:\/\/twitter.com\/laura_nobilis|@laura_nobilis> and I are going to spiffy dapper",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433240052.000045"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/lcpriest|@lcpriest>: \/cc <https:\/\/twitter.com\/tenderlove|@tenderlove>, <https:\/\/twitter.com\/lindaliukas|@lindaliukas> <https:\/\/twitter.com\/arnvald|@arnvald>  <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/twitter.com\/laura_nobilis|@laura_nobilis>",
+                "author_name": "Lachlan Priest",
+                "author_link": "https:\/\/twitter.com\/lcpriest\/status\/605679417625419776",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/468680860523196417\/aRLcq39P_normal.jpeg",
+                "author_subname": "@lcpriest",
+                "pretext": "<https:\/\/twitter.com\/lcpriest\/status\/605679417625419776>",
+                "text": "\/cc <https:\/\/twitter.com\/tenderlove|@tenderlove>, <https:\/\/twitter.com\/lindaliukas|@lindaliukas> <https:\/\/twitter.com\/arnvald|@arnvald>  <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> <https:\/\/twitter.com\/laura_nobilis|@laura_nobilis>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433240201.000046"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>: Ruby meetup in progress. <https:\/\/pbs.twimg.com\/media\/CGfgpTpUQAMb9jl.jpg>",
+                "author_name": "RedDotRubyConf",
+                "author_link": "https:\/\/twitter.com\/reddotrubyconf\/status\/605699690068189185",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/3261940620\/0a27e2dfbd04ac82ccde7502b9b3d16d_normal.png",
+                "author_subname": "@reddotrubyconf",
+                "pretext": "<https:\/\/twitter.com\/reddotrubyconf\/status\/605699690068189185>",
+                "text": "Ruby meetup in progress. <https:\/\/pbs.twimg.com\/media\/CGfgpTpUQAMb9jl.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGfgpTpUQAMb9jl.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 38852,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433245034.000047"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/jin_|@jin_>: #rubysg meetup for June! Yang Yu talking about Ruby meta-programming now. <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGflN03UcAE2OSt.jpg>",
+                "author_name": "jin",
+                "author_link": "https:\/\/twitter.com\/jin_\/status\/605704767768129536",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/604894156100468736\/F9Xpja3B_normal.jpg",
+                "author_subname": "@jin_",
+                "pretext": "<https:\/\/twitter.com\/jin_\/status\/605704767768129536>",
+                "text": "#rubysg meetup for June! Yang Yu talking about Ruby meta-programming now. <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGflN03UcAE2OSt.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGflN03UcAE2OSt.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 41516,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433246245.000048"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/1ternal|@1ternal>: <https:\/\/twitter.com\/JuanitoFatas|@JuanitoFatas> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> :heart_eyes::heart_eyes::heart_eyes:",
+                "author_name": "1ternal",
+                "author_link": "https:\/\/twitter.com\/1ternal\/status\/605716564608958464",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1195255457\/___normal.jpg",
+                "author_subname": "@1ternal",
+                "pretext": "<https:\/\/twitter.com\/1ternal\/status\/605716564608958464>",
+                "text": "<https:\/\/twitter.com\/JuanitoFatas|@JuanitoFatas> <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> :heart_eyes::heart_eyes::heart_eyes:",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433249057.000049"
+    },
+    {
+        "user": "U054V70LL",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U054V70LL|sen> has joined the channel",
+        "ts": "1433254585.000050"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/sausheong|@sausheong>: Catch <https:\/\/twitter.com\/1911Bill|@1911Bill> and me talk about Ruby and robots at #rdrc2015 <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> !",
+                "author_name": "Sau Sheong",
+                "author_link": "https:\/\/twitter.com\/sausheong\/status\/605676944122724352",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/586534241799766017\/jN4Y6OPR_normal.jpg",
+                "author_subname": "@sausheong",
+                "pretext": "<https:\/\/twitter.com\/sausheong\/status\/605676944122724352>",
+                "text": "Catch <https:\/\/twitter.com\/1911Bill|@1911Bill> and me talk about Ruby and robots at #rdrc2015 <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> !",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/605760143570042880|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433259447.000051"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/yukihiro_matz|@yukihiro_matz>: Does anyone want to have lunch with me near Big Hotel tomorrow? #RedDot",
+                "author_name": "Yukihiro Matsumoto",
+                "author_link": "https:\/\/twitter.com\/yukihiro_matz\/status\/605748563482533888",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/511244255294001152\/v5phEU1O_normal.jpeg",
+                "author_subname": "@yukihiro_matz",
+                "pretext": "<https:\/\/twitter.com\/yukihiro_matz\/status\/605748563482533888>",
+                "text": "Does anyone want to have lunch with me near Big Hotel tomorrow? #RedDot",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1,
+                "footer": "Retweeted by <https:\/\/twitter.com\/reddotrubyconf\/status\/605760234393452544|@reddotrubyconf>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433259469.000052"
+    },
+    {
+        "user": "U055LD2EX",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U055LD2EX|adrianchinghc> has joined the channel",
+        "ts": "1433260145.000053"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/keit_|@keit_>: <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> waiting for boarding at Christchurch to fly Singapore.",
+                "author_name": "Kei Takashima",
+                "author_link": "https:\/\/twitter.com\/keit_\/status\/605859712504991744",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/155347301\/web-KPTG1852_normal.jpg",
+                "author_subname": "@keit_",
+                "pretext": "<https:\/\/twitter.com\/keit_\/status\/605859712504991744>",
+                "text": "<https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> waiting for boarding at Christchurch to fly Singapore.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433283186.888775"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/meaningful|@meaningful>: Gonna miss <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> badly. There is nothing like it here, down under.",
+                "author_name": "Yasith Fernando",
+                "author_link": "https:\/\/twitter.com\/meaningful\/status\/605898954400604161",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1369502336\/avatar-manga_normal.jpg",
+                "author_subname": "@meaningful",
+                "pretext": "<https:\/\/twitter.com\/meaningful\/status\/605898954400604161>",
+                "text": "Gonna miss <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> badly. There is nothing like it here, down under.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433292542.000002"
+    },
+    {
+        "type": "message",
+        "user": "U03SWKEV5",
+        "text": "Hi, if there's anything really really important, please @mention me :simple_smile: Thanks!",
+        "ts": "1433295386.000003"
+    },
+    {
+        "type": "message",
+        "user": "U03TG6YTU",
+        "text": "thanks <@U03SWKEV5> :smile:",
+        "ts": "1433296396.000004"
+    },
+    {
+        "type": "message",
+        "user": "U03TG6YTU",
+        "text": "so excited to meet everyone tomorrow :heart:",
+        "edited": {
+            "user": "U03TG6YTU",
+            "ts": "1433296408.000000"
+        },
+        "ts": "1433296403.000005"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/crigor|@crigor>: MNL :airplane: SIN. See you <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>!",
+                "author_name": "Christopher Rigor",
+                "author_link": "https:\/\/twitter.com\/crigor\/status\/605919913119608833",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/526304344048545792\/fW4_QU3P_normal.jpeg",
+                "author_subname": "@crigor",
+                "pretext": "<https:\/\/twitter.com\/crigor\/status\/605919913119608833>",
+                "text": "MNL :airplane: SIN. See you <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>!",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433297539.000007"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/vaidehijoshi|@vaidehijoshi>: SPOILER ALERT for my lightning talk tomorrow at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> : :heart_eyes_cat:\n\nThat's all I'm giving you, folks. Gotta keep the mystery alive.",
+                "author_name": "Vaidehi Joshi",
+                "author_link": "https:\/\/twitter.com\/vaidehijoshi\/status\/605931192567734274",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/587461758803054593\/X0s8l__S_normal.png",
+                "author_subname": "@vaidehijoshi",
+                "pretext": "<https:\/\/twitter.com\/vaidehijoshi\/status\/605931192567734274>",
+                "text": "SPOILER ALERT for my lightning talk tomorrow at <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> : :heart_eyes_cat:\n\nThat's all I'm giving you, folks. Gotta keep the mystery alive.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433300228.000008"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>: .<https:\/\/twitter.com\/RubyMotion|@RubyMotion> workshop by <https:\/\/twitter.com\/lrz|@lrz> in progress! #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGjRw5jVAAA9mHn.jpg>",
+                "author_name": "RedDotRubyConf",
+                "author_link": "https:\/\/twitter.com\/reddotrubyconf\/status\/605964801748004865",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/3261940620\/0a27e2dfbd04ac82ccde7502b9b3d16d_normal.png",
+                "author_subname": "@reddotrubyconf",
+                "pretext": "<https:\/\/twitter.com\/reddotrubyconf\/status\/605964801748004865>",
+                "text": ".<https:\/\/twitter.com\/RubyMotion|@RubyMotion> workshop by <https:\/\/twitter.com\/lrz|@lrz> in progress! #rdrc2015 <https:\/\/pbs.twimg.com\/media\/CGjRw5jVAAA9mHn.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGjRw5jVAAA9mHn.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 40495,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433308242.000009"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: .<https:\/\/twitter.com\/RubyMotion|@RubyMotion> workshop with <https:\/\/twitter.com\/lrz|@lrz> has started! #rdrc2015 just in time for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> tomorrow &amp; Fri :D <https:\/\/pbs.twimg.com\/media\/CGjScNYU8AAuLAd.jpg>",
+                "author_name": "Nathania Wong",
+                "author_link": "https:\/\/twitter.com\/NathaniaWong\/status\/605965550724878336",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594158757346586625\/JMeBbqR5_normal.jpg",
+                "author_subname": "@NathaniaWong",
+                "pretext": "<https:\/\/twitter.com\/NathaniaWong\/status\/605965550724878336>",
+                "text": ".<https:\/\/twitter.com\/RubyMotion|@RubyMotion> workshop with <https:\/\/twitter.com\/lrz|@lrz> has started! #rdrc2015 just in time for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> tomorrow &amp; Fri :D <https:\/\/pbs.twimg.com\/media\/CGjScNYU8AAuLAd.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGjScNYU8AAuLAd.jpg",
+                "image_width": 600,
+                "image_height": 800,
+                "image_bytes": 61802,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433308421.000010"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NathaniaWong|@NathaniaWong>: .<https:\/\/twitter.com\/RubyMotion|@RubyMotion> workshop with <https:\/\/twitter.com\/lrz|@lrz> has started! #rdrc2015 just in time for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> tomorrow &amp; Fri :D <https:\/\/pbs.twimg.com\/media\/CGjS5owVIAE5wWd.jpg>",
+                "author_name": "Nathania Wong",
+                "author_link": "https:\/\/twitter.com\/NathaniaWong\/status\/605966054842507264",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/594158757346586625\/JMeBbqR5_normal.jpg",
+                "author_subname": "@NathaniaWong",
+                "pretext": "<https:\/\/twitter.com\/NathaniaWong\/status\/605966054842507264>",
+                "text": ".<https:\/\/twitter.com\/RubyMotion|@RubyMotion> workshop with <https:\/\/twitter.com\/lrz|@lrz> has started! #rdrc2015 just in time for <https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf> tomorrow &amp; Fri :D <https:\/\/pbs.twimg.com\/media\/CGjS5owVIAE5wWd.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CGjS5owVIAE5wWd.jpg",
+                "image_width": 600,
+                "image_height": 600,
+                "image_bytes": 43090,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433308540.000011"
+    },
+    {
+        "bot_id": "B05245E6B",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/reddotrubyconf|@reddotrubyconf>: Tickets were sold out, but we just released a few more tix. Grab it! :)",
+                "author_name": "RedDotRubyConf",
+                "author_link": "https:\/\/twitter.com\/reddotrubyconf\/status\/605967232439427072",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/3261940620\/0a27e2dfbd04ac82ccde7502b9b3d16d_normal.png",
+                "author_subname": "@reddotrubyconf",
+                "pretext": "<https:\/\/twitter.com\/reddotrubyconf\/status\/605967232439427072>",
+                "text": "Tickets were sold out, but we just released a few more tix. Grab it! :)",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433308821.000012"
+    },
+    {
+        "user": "U052PL7TF",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U052PL7TF|rflot> has joined the channel",
+        "ts": "1433313182.000013"
+    },
+    {
+        "user": "U03TG30NE",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U03TG30NE|grzegorz> has joined the channel",
+        "ts": "1433313880.000014"
+    }
+]
